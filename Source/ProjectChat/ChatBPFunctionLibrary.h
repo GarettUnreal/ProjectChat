@@ -15,6 +15,9 @@ class PROJECTCHAT_API UChatBPFunctionLibrary : public UBlueprintFunctionLibrary
 	GENERATED_BODY()
 
 		UFUNCTION(BlueprintCallable)
-		bool IsFirstCharacterWhitespace(const FString& String);
+		static bool IsFirstCharacterWhitespace(const FString& String);
+
+	UFUNCTION(BlueprintCallable)
+		static FString SanitizeNameSubmission(const FString& InputString);
 	
 };

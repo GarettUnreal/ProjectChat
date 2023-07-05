@@ -1,12 +1,17 @@
 {
+	"name": "Test Set",
 	"data": [
 		{
 			"name": "dodo",
-			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Dronte_dodo_Raphus_cucullatus.jpg/640px-Dronte_dodo_Raphus_cucullatus.jpg"
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Dronte_dodo_Raphus_cucullatus.jpg/640px-Dronte_dodo_Raphus_cucullatus.jpg",
+			"width": 640,
+			"height": 684
 		},
 		{
 			"name": "deer",
-			"url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Mazama_americana.jpg"
+			"url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Mazama_americana.jpg",
+			"width": 837,
+			"height": 593
 		}
 	]
 }

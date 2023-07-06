@@ -19,5 +19,14 @@ class PROJECTCHAT_API UChatBPFunctionLibrary : public UBlueprintFunctionLibrary
 
 	UFUNCTION(BlueprintCallable)
 		static FString SanitizeNameSubmission(const FString& InputString);
+
+	UFUNCTION(BlueprintCallable)
+		static TArray<FString> GetFolderFileNames(const FString& Folder, const FString& Extension);
+
+	UFUNCTION(BlueprintCallable)
+		static TArray<FString> GetChildDirectories(const FString& Folder);
+
+	UFUNCTION(BlueprintCallable)
+		static UTexture2D* LoadTexture(const FString& Filename);
 	
 };

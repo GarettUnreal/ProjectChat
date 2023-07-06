@@ -2,6 +2,7 @@
 
 
 #include "ChatBPFunctionLibrary.h"
+#include "HAL/FileManagerGeneric.h"
 
 bool UChatBPFunctionLibrary::IsFirstCharacterWhitespace(const FString& String)
 {
@@ -32,4 +33,34 @@ FString UChatBPFunctionLibrary::SanitizeNameSubmission(const FString& InputStrin
 	}
 
 	return Result;
+}
+
+TArray<FString> UChatBPFunctionLibrary::GetFolderFileNames(const FString& Folder, const FString& Extension)
+{
+	TArray<FString> Result;
+
+	if (FPaths::DirectoryExists(Folder))
+	{
+		UE_LOG(LogTemp, Warning, TEXT("Search Folder = %s, Search Extension = %s"), *Folder, *Extension);
+		FFileManagerGeneric::Get().FindFiles(Result, *Folder, *Extension);
+	}
+
+	return Result;
+}
+
+TArray<FString> UChatBPFunctionLibrary::GetChildDirectories(const FString& Folder)
+{
+	TArray<FString> Result;
+
+	if (FPaths::DirectoryExists(Folder))
+	{
+		FFileManagerGeneric::Get().FindFilesRecursive(Result, *Folder, TEXT("*"), false, true, true);
+	}
+
+	return Result;
+}
+
+UTexture2D* UChatBPFunctionLibrary::LoadTexture(const FString& Filename)
+{
+	return LoadObject<UTexture2D>(NULL, *Filename, NULL, LOAD_None, NULL);
 }

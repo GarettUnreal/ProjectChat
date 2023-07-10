@@ -34,6 +34,11 @@
 		{
 			"Name": "BlueprintFileUtils",
 			"Enabled": true
+		},
+		{
+			"Name": "TwitchIntegrator",
+			"Enabled": false,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/aab34378365e41b18115c7bf8931dd31"
 		}
 	]
 }

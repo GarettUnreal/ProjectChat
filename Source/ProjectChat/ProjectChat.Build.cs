@@ -8,7 +8,7 @@ public class ProjectChat : ModuleRules
 	{
 		PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs;
 	
-		PublicDependencyModuleNames.AddRange(new string[] { "Core", "CoreUObject", "Engine", "InputCore" });
+		PublicDependencyModuleNames.AddRange(new string[] { "Core", "CoreUObject", "Engine", "InputCore", "Sockets", "Networking", "HTTP", "Json" });
 
 		PrivateDependencyModuleNames.AddRange(new string[] {  });
 

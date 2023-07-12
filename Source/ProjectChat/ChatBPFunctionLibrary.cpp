@@ -64,3 +64,46 @@ UTexture2D* UChatBPFunctionLibrary::LoadTexture(const FString& Filename)
 {
 	return LoadObject<UTexture2D>(NULL, *Filename, NULL, LOAD_None, NULL);
 }
+
+TArray<UObject*> UChatBPFunctionLibrary::DynamicLoadContentFromPath(FString PathFromContentFolder, UClass* AssetClass, TArray<FString>& FilePaths)
+{
+	TArray<UObject*> Array;
+	
+	FString RootFolderFullPath = FPaths::ConvertRelativePathToFull(FPaths::ProjectContentDir() + PathFromContentFolder + "/");
+	//Print("RootFolderPath = " + RootFolderFullPath);
+
+	//FPaths::NormalizeDirectoryName(RootFolderFullPath);
+	//Print("Normalized RootFolderPath = " + RootFolderFullPath);
+
+	IFileManager& FileManager = IFileManager::Get();
+
+	TArray<FString> Files;
+
+	FString Ext;
+
+	if (!Ext.Contains(TEXT("*")))
+	{
+		if (Ext == "")
+		{
+			Ext = "*.*";
+		}
+		else
+		{
+			Ext = (Ext.Left(1) == ".") ? "*" + Ext : "*." + Ext;
+		}
+	}
+
+	FileManager.FindFiles(Files, *(RootFolderFullPath + Ext), true, false);
+
+	for (int32 i = 0; i < Files.Num(); i++)
+	{
+		FString Path;
+		
+		Path = AssetClass->GetFName().ToString() + "'/Game/" + PathFromContentFolder + "/" + Files[i].LeftChop(7) + "." + Files[i].LeftChop(7) + "'";
+		UObject* LoadedObj = StaticLoadObject(AssetClass, NULL, *Path);
+		FilePaths.Add(Files[i]);
+		Array.Add(LoadedObj);
+	}
+
+	return Array;
+}

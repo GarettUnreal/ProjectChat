@@ -28,5 +28,8 @@ class PROJECTCHAT_API UChatBPFunctionLibrary : public UBlueprintFunctionLibrary
 
 	UFUNCTION(BlueprintCallable)
 		static UTexture2D* LoadTexture(const FString& Filename);
+
+	UFUNCTION(BlueprintCallable, Category = "Sweet|Utilities")
+		static TArray<UObject*> DynamicLoadContentFromPath(FString PathFromContentFolder, UClass* AssetClass, TArray<FString>& FilePaths);
 	
 };

@@ -1,0 +1,18 @@
+{
+	"Abyssinian": {
+		"URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Gustav_chocolate.jpg/256px-Gustav_chocolate.jpg",
+		"Attribution": "Karin Langner-Bahmann, CC BY-SA 3.0 <http://creativecommons.org/licenses/by-sa/3.0/>, via Wikimedia Commons"
+	},
+	"American Curl": {
+		"URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/GIC_Minnikatin_Zelta_ACS_n_22_female_EX1_CAGCIB_GIC.JPG/256px-GIC_Minnikatin_Zelta_ACS_n_22_female_EX1_CAGCIB_GIC.JPG",
+		"Attribution": "Heikki Siltala, CC BY 3.0 <https://creativecommons.org/licenses/by/3.0>, via Wikimedia Commons"
+	},
+	"Birman cat": {
+		"URL": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Birmakatze_Seal-Point.jpg",
+		"Attribution": "grapheum.de, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons"
+	},
+	"British Longhair": {
+		"URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/British_Longhair_-_Black_Silver_Shaded.jpg/256px-British_Longhair_-_Black_Silver_Shaded.jpg",
+		"Attribution": "Chatterie des Millenovæ http://www.millenovae.com, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons"
+	}
+}

@@ -1,0 +1,14 @@
+{
+  "name": "dlwikimediacommons",
+  "version": "1.0.0",
+  "description": "Download Wikimedia Commons Images",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "GH",
+  "license": "MIT",
+  "dependencies": {
+    "selenium-webdriver": "^4.10.0"
+  }
+}

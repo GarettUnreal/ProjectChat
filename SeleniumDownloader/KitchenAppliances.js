@@ -1,0 +1,20 @@
+var NamedObject = {
+	"Blender": "https://commons.wikimedia.org/wiki/File:ElectricBlender.jpg",
+	"Food processor": "https://commons.wikimedia.org/wiki/File:Food_Processor_2.jpg",
+	"Stand mixer": "https://commons.wikimedia.org/wiki/File:Stand_Mixer_icon.png",
+	"Espresso machine": "https://commons.wikimedia.org/wiki/File:(Zerdo,_Quito)_(espresso_machine_at_the_bar).jpg",
+	"Slow cooker": "https://commons.wikimedia.org/wiki/File:6_quart_Crock_Pot_slow_cooker.jpg",
+	"Air fryer": "https://commons.wikimedia.org/wiki/File:Air_Fryer_Presets.jpg",
+	"Electric kettle": "https://commons.wikimedia.org/wiki/File:General_electric_-_electric_water_kettle.jpg",
+	"Rice cooker": "https://commons.wikimedia.org/wiki/File:Rice_cooker_(240031398).jpg",
+	"Juicer": "https://commons.wikimedia.org/wiki/File:Hurom_juicer3.jpg",
+	"Pressure cooker": "https://commons.wikimedia.org/wiki/File:Pressure_cooker_oval_lid.jpg",
+	"Waffle maker": "https://commons.wikimedia.org/wiki/File:Waffle_Iron_(PSF).png",
+	"Bread Maker": "https://commons.wikimedia.org/wiki/File:Making_bread_in_bread_machine.jpg",
+	"Toaster oven": "https://commons.wikimedia.org/wiki/File:Hamilton_Beach_Easy_Reach_Sure-Crisp_Toaster_Oven_-_Door_Open.jpg",
+	"Electric grill": "https://commons.wikimedia.org/wiki/File:Asador_electrico.JPG",
+	"Immersion blender": "https://commons.wikimedia.org/wiki/File:Ty%C4%8Dov%C3%BD_mix%C3%A9r_Bosch_01.jpg",
+	"Hand Mixer": "https://commons.wikimedia.org/wiki/File:Viking_5-Speed_Hand_Mixer_(4695735699).jpg",
+	"Coffee grinder": "https://commons.wikimedia.org/wiki/File:Coffee_grinder_blades.jpg",
+	"Electric can opener": "https://commons.wikimedia.org/wiki/File:Proctor_Silex_Electric_Can_Opener.JPG"
+};

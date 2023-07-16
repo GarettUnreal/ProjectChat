@@ -1,0 +1,22 @@
+var NamedImages = {
+	"Eiffel Tower": "https://commons.wikimedia.org/wiki/File:Tour_Eiffel_Wikimedia_Commons.jpg", 
+	"Statue of Liberty": "https://commons.wikimedia.org/wiki/File:Statue_of_Liberty,_NY.jpg", 
+	"Great Wall of China": "https://commons.wikimedia.org/wiki/File:Great_Wall_of_China_July_2006.JPG", 
+	"Taj Mahal": "https://commons.wikimedia.org/wiki/File:Taj_Mahal,_Agra,_India_edit3.jpg", 
+	"Pyramids of Giza": "https://commons.wikimedia.org/wiki/File:All_Gizah_Pyramids.jpg", 
+	"Colosseum": "https://commons.wikimedia.org/wiki/File:Interior_of_Colosseum,_Rome,_Italy_(Ank_Kumar,_Infosys)_05.jpg", 
+	"Sydney Opera House": "https://commons.wikimedia.org/wiki/File:Sydney_Opera_House_from_ferry.jpg", 
+	"Machu Picchu": "https://commons.wikimedia.org/wiki/File:Machu_Picchu,_Peru.jpg", 
+	"Christ the Redeemer": "https://commons.wikimedia.org/wiki/File:Christ_the_Redeemer_-_Cristo_Redentor.jpg", 
+	"Big Ben": "https://commons.wikimedia.org/wiki/File:London_(UK),_Elizabeth_Tower,_-Big_Ben-_--_2010_--_1979.jpg", 
+	"Acropolis of Athens": "https://commons.wikimedia.org/wiki/File:Acropolis,_Athens_GRE.jpg", 
+	"Petra": "https://commons.wikimedia.org/wiki/File:The_Monastery,_Petra,_Jordan7.jpg", 
+	"Mount Rushmore": "https://commons.wikimedia.org/wiki/File:Mount_Rushmore_National_Memorial.jpg", 
+	"Angkor Wat": "https://commons.wikimedia.org/wiki/File:Angkor_wat_temple.jpg", 
+	"Golden Gate Bridge": "https://commons.wikimedia.org/wiki/File:GoldenGateBridge-001.jpg", 
+	"Great Barrier Reef": "https://commons.wikimedia.org/wiki/File:The_Great_Barrier_Reef,_Off_Cairns_Coast_(Ank_Kumar)_01.jpg",
+	"Chichen Itza": "https://commons.wikimedia.org/wiki/File:Chichen_Itza_3.jpg",
+	"Neuschwanstein Castle": "https://commons.wikimedia.org/wiki/File:Schloss_Neuschwanstein_2013.jpg",
+	"Potala Palace": "https://commons.wikimedia.org/wiki/File:Potala_Palace,_August_2009.jpg",
+	"The Great Sphinx of Giza": "https://commons.wikimedia.org/wiki/File:Great_Sphinx_of_Giza_(%D8%A3%D8%A8%D9%88_%D8%A7%D9%84%D9%87%D9%88%D9%84).jpg"
+};

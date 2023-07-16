@@ -1,0 +1,22 @@
+var NamedImages = {
+	"Eiffel Tower": "", 
+	"Statue of Liberty": "", 
+	"Great Wall of China": "", 
+	"Taj Mahal": "", 
+	"Pyramids of Giza": "", 
+	"Colosseum": "", 
+	"Sydney Opera House": "", 
+	"Machu Picchu": "", 
+	"Christ the Redeemer": "", 
+	"Big Ben": "", 
+	"Acropolis of Athens": "", 
+	"Petra": "", 
+	"Mount Rushmore": "", 
+	"Angkor Wat": "", 
+	"Golden Gate Bridge": "", 
+	"Great Barrier Reef": "",
+	"Chichen Itza": "",
+	"Neuschwanstein Castle": "",
+	"Potala Palace": "",
+	"The Great Sphinx of Giza": ""
+};

@@ -1,0 +1,22 @@
+var mathExpressionsList = {
+  "Euler's Identity": "https://commons.wikimedia.org/wiki/File:VignetteEulerIdentity.svg",
+  "Fibonacci Sequence": "https://commons.wikimedia.org/wiki/File:PascalTriangleFibanacci.svg",
+  "Newton's Law of Universal Gravitation": "https://commons.wikimedia.org/wiki/File:Newton_s_law_of_universal_gravitation.svg",
+  "Golden Ratio": "https://commons.wikimedia.org/wiki/File:Golden_ratio_segments.png",
+  "Quadratic formula": "https://commons.wikimedia.org/wiki/File:Quadratic_formula.svg",
+  "The Fundamental Theorem of Calculus": "https://commons.wikimedia.org/wiki/File:Fundamental_Theorem_of_Calculus.svg",
+  "Bayes' Theorem": "https://commons.wikimedia.org/wiki/File:Bayes%27_Theorem_MMB_01.jpg",
+  "Chaos Theory": "https://commons.wikimedia.org/wiki/File:Lorenz_system_r28_s10_b2-6666.png",
+  "Prime Numbers": "https://commons.wikimedia.org/wiki/File:Primencomposite0100.svg",
+  "Pascal's Triangle": "https://commons.wikimedia.org/wiki/File:Pascal%27s_triangle_5.svg",
+  "Riemann Hypothesis": "https://commons.wikimedia.org/wiki/File:Riemann_hypothesis_caimi.svg",
+  "Fermat's Last Theorem": "https://commons.wikimedia.org/wiki/File:Czech_stamp_2000_m259.jpg",
+  "Pythagorean Theorem": "https://commons.wikimedia.org/wiki/File:Pythagorean.svg",
+  "Drake Equation": "https://commons.wikimedia.org/wiki/File:Europa_Rising_-_Drake_Equation_(14486519161).jpg",
+  "Tower of Hanoi": "https://commons.wikimedia.org/wiki/File:Tower_of_Hanoi.jpeg",
+  "Schrödinger Equation": "https://commons.wikimedia.org/wiki/File:Schrodinger_Equation.png",
+  "Gömböc": "https://commons.wikimedia.org/wiki/File:Gomboc2.jpg",
+  "Mobius Strip": "https://commons.wikimedia.org/wiki/File:M%C3%B6bius_strip.jpg",
+  "Mandelbrot Set": "https://commons.wikimedia.org/wiki/File:Mandelbrot_20210411_007.png",
+  "The Koch Snowflake": "https://commons.wikimedia.org/wiki/File:Koch_Snowflake_7th_iteration.png"
+};

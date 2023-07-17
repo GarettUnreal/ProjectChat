@@ -1,0 +1,44 @@
+Animals: Different species, breeds, or types of animals.
+Food and Drinks: Various types of dishes, ingredients, beverages, or desserts.
+Movies and TV Shows: Titles, characters, or famous quotes from movies and television series.
+Sports: Different sports, teams, athletes, or equipment used in sports.
+Historical Figures: Famous historical figures from different eras and regions.
+Countries and Cities: Names of countries, capitals, or famous cities around the world.
+Music: Song titles, lyrics, or artists from different genres or time periods.
+Nature: Different plants, flowers, trees, or geographical features.
+Technology: Gadgets, devices, or terms related to technology and electronics.
+Random Objects: Everyday objects from various categories like household items, tools, or common items found in different settings.
+
+
+
+
+
+
+"Retro Gaming": Guessing objects or characters from classic video games.
+"Movie Madness": Guessing famous movie scenes, actors, or film-related objects.
+"Music Mania": Guessing song titles, lyrics, or famous musicians/bands.
+"Geek Culture": Guessing trivia about comic books, superheroes, or popular TV shows.
+"Sports Spectacular": Guessing sports-related objects, team logos, or famous athletes.
+"Food Frenzy": Guessing ingredients, dishes, or popular food brands.
+"Nature Quest": Guessing different animal species, plants, or natural landmarks.
+"Mythology Mayhem": Guessing gods, goddesses, or mythical creatures from various mythologies.
+"Tech Triv ia": Guessing tech gadgets, software, or internet-related terms.
+"Emoji Extravaganza": Guessing phrases or movie titles represented by emojis.
+
+
+
+Celebrities in Disguise: Guessing celebrities who are disguised or incognito in a photo or video.
+Pop Culture Puzzles: Guessing puzzles related to movies, TV shows, music, or iconic pop culture references.
+Bookworm's Paradise: Guessing famous book covers, book titles, or identifying authors from their photos.
+Fashion Frenzy: Guessing fashion brands, fashion icons, or identifying fashion trends from clothing or accessory images.
+Travel Trivia: Guessing famous landmarks, popular tourist destinations, or identifying countries from travel photos.
+Foodie Fiesta: Guessing different cuisines, popular dishes, or identifying ingredients from food images.
+Science and Space: Guessing scientific concepts, space exploration achievements, or identifying celestial objects from images.
+Internet Memes: Guessing popular memes, viral videos, or identifying internet celebrities.
+Language Labyrinth: Guessing words, idioms, or phrases from different languages.
+Vehicle Voyage: Guessing different types of vehicles, famous car models, or identifying modes of transportation from images.
+
+
+
+
+

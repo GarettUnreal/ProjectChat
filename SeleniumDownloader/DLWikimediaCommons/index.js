@@ -170,22 +170,24 @@ async function example() {
 //example();
 
 printImageInfos({
-	"Blender": "https://commons.wikimedia.org/wiki/File:ElectricBlender.jpg",
-	"Food processor": "https://commons.wikimedia.org/wiki/File:Food_Processor_2.jpg",
-	"Stand mixer": "https://commons.wikimedia.org/wiki/File:Stand_Mixer_icon.png",
-	"Espresso machine": "https://commons.wikimedia.org/wiki/File:(Zerdo,_Quito)_(espresso_machine_at_the_bar).jpg",
-	"Slow cooker": "https://commons.wikimedia.org/wiki/File:6_quart_Crock_Pot_slow_cooker.jpg",
-	"Air fryer": "https://commons.wikimedia.org/wiki/File:Air_Fryer_Presets.jpg",
-	"Electric kettle": "https://commons.wikimedia.org/wiki/File:General_electric_-_electric_water_kettle.jpg",
-	"Rice cooker": "https://commons.wikimedia.org/wiki/File:Rice_cooker_(240031398).jpg",
-	"Juicer": "https://commons.wikimedia.org/wiki/File:Hurom_juicer3.jpg",
-	"Pressure cooker": "https://commons.wikimedia.org/wiki/File:Pressure_cooker_oval_lid.jpg",
-	"Waffle maker": "https://commons.wikimedia.org/wiki/File:Waffle_Iron_(PSF).png",
-	"Bread Maker": "https://commons.wikimedia.org/wiki/File:Making_bread_in_bread_machine.jpg",
-	"Toaster oven": "https://commons.wikimedia.org/wiki/File:Hamilton_Beach_Easy_Reach_Sure-Crisp_Toaster_Oven_-_Door_Open.jpg",
-	"Electric grill": "https://commons.wikimedia.org/wiki/File:Asador_electrico.JPG",
-	"Immersion blender": "https://commons.wikimedia.org/wiki/File:Ty%C4%8Dov%C3%BD_mix%C3%A9r_Bosch_01.jpg",
-	"Hand Mixer": "https://commons.wikimedia.org/wiki/File:Viking_5-Speed_Hand_Mixer_(4695735699).jpg",
-	"Coffee grinder": "https://commons.wikimedia.org/wiki/File:Coffee_grinder_blades.jpg",
-	"Electric can opener": "https://commons.wikimedia.org/wiki/File:Proctor_Silex_Electric_Can_Opener.JPG"
-});
+    "Euler's Identity": "https://commons.wikimedia.org/wiki/File:VignetteEulerIdentity.svg",
+    "Fibonacci Sequence": "https://commons.wikimedia.org/wiki/File:PascalTriangleFibanacci.svg",
+    "Newton's Law of Universal Gravitation": "https://commons.wikimedia.org/wiki/File:Newton_s_law_of_universal_gravitation.svg",
+    "Golden Ratio": "https://commons.wikimedia.org/wiki/File:Golden_ratio_segments.png",
+    "Quadratic formula": "https://commons.wikimedia.org/wiki/File:Quadratic_formula.svg",
+    "The Fundamental Theorem of Calculus": "https://commons.wikimedia.org/wiki/File:Fundamental_Theorem_of_Calculus.svg",
+    "Bayes' Theorem": "https://commons.wikimedia.org/wiki/File:Bayes%27_Theorem_MMB_01.jpg",
+    "Chaos Theory": "https://commons.wikimedia.org/wiki/File:Lorenz_system_r28_s10_b2-6666.png",
+    "Prime Numbers": "https://commons.wikimedia.org/wiki/File:Primencomposite0100.svg",
+    "Pascal's Triangle": "https://commons.wikimedia.org/wiki/File:Pascal%27s_triangle_5.svg",
+    "Riemann Hypothesis": "https://commons.wikimedia.org/wiki/File:Riemann_hypothesis_caimi.svg",
+    "Fermat's Last Theorem": "https://commons.wikimedia.org/wiki/File:Czech_stamp_2000_m259.jpg",
+    "Pythagorean Theorem": "https://commons.wikimedia.org/wiki/File:Pythagorean.svg",
+    "Drake Equation": "https://commons.wikimedia.org/wiki/File:Europa_Rising_-_Drake_Equation_(14486519161).jpg",
+    "Tower of Hanoi": "https://commons.wikimedia.org/wiki/File:Tower_of_Hanoi.jpeg",
+    "Schrödinger Equation": "https://commons.wikimedia.org/wiki/File:Schrodinger_Equation.png",
+    "Gömböc": "https://commons.wikimedia.org/wiki/File:Gomboc2.jpg",
+    "Mobius Strip": "https://commons.wikimedia.org/wiki/File:M%C3%B6bius_strip.jpg",
+    "Mandelbrot Set": "https://commons.wikimedia.org/wiki/File:Mandelbrot_20210411_007.png",
+    "The Koch Snowflake": "https://commons.wikimedia.org/wiki/File:Koch_Snowflake_7th_iteration.png"
+  });

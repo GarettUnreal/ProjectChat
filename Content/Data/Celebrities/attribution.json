@@ -1,0 +1,166 @@
+{
+  "Brad Pitt": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Brad_Pitt_2012.jpg/512px-Brad_Pitt_2012.jpg",
+    "Attribution": "Paul Bird, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons"
+  },
+  "Jennifer Aniston": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/JenniferAnistonHWoFFeb2012.jpg/512px-JenniferAnistonHWoFFeb2012.jpg",
+    "Attribution": "Angela George, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons"
+  },
+  "Leonardo DiCaprio": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Leonardo_DiCaprio_October_2016.jpg/512px-Leonardo_DiCaprio_October_2016.jpg",
+    "Attribution": "U.S. Department of State, Public domain, via Wikimedia Commons"
+  },
+  "Angelina Jolie": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Angelina_Jolie_2_June_2014_%28cropped%29.jpg/512px-Angelina_Jolie_2_June_2014_%28cropped%29.jpg",
+    "Attribution": "Foreign and Commonwealth Office, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons"
+  },
+  "Tom Hanks": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Tom_Hanks_at_the_Elvis_Premiere_2022.jpg",
+    "Attribution": "Eva Rinaldi from Abbotsford, Australia, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons"
+  },
+  "Scarlett Johansson": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Scarlett_Johansson_in_Kuwait_02_%28square%29.jpg/512px-Scarlett_Johansson_in_Kuwait_02_%28square%29.jpg",
+    "Attribution": "Sgt. Bryson K. Jones (squared by Juan Pablo Arancibia Medina), Public domain, via Wikimedia Commons"
+  },
+  "Will Smith": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/TechCrunch_Disrupt_2019_%2848834434641%29_%28cropped%29.jpg/512px-TechCrunch_Disrupt_2019_%2848834434641%29_%28cropped%29.jpg",
+    "Attribution": "TechCrunch, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons"
+  },
+  "Julia Roberts": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Julia_Roberts_2011_Shankbone_3.JPG/512px-Julia_Roberts_2011_Shankbone_3.JPG",
+    "Attribution": "David Shankbone, CC BY 3.0 <https://creativecommons.org/licenses/by/3.0>, via Wikimedia Commons"
+  },
+  "Dwayne Johnson": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Dwayne_Johnson_2%2C_2013.jpg/512px-Dwayne_Johnson_2%2C_2013.jpg",
+    "Attribution": "Eva Rinaldi, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons"
+  },
+  "Charlize Theron": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Charlize_Theron_Cannes_2015_6.jpg/512px-Charlize_Theron_Cannes_2015_6.jpg",
+    "Attribution": "Georges Biard, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons"
+  },
+  "George Clooney": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/8/8d/George_Clooney_2016.jpg",
+    "Attribution": "White House/Pete Souza, Public domain, via Wikimedia Commons"
+  },
+  "Meryl Streep": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Meryl_Streep_December_2018.jpg/512px-Meryl_Streep_December_2018.jpg",
+    "Attribution": "Montclair Film, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons"
+  },
+  "Ryan Reynolds": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Deadpool_2_Japan_Premiere_Red_Carpet_Ryan_Reynolds_%28cropped%29.jpg/512px-Deadpool_2_Japan_Premiere_Red_Carpet_Ryan_Reynolds_%28cropped%29.jpg",
+    "Attribution": "Dick Thomas Johnson from Tokyo, Japan, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons"
+  },
+  "Sandra Bullock": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Sandra_Bullock_2018_%28cropped%29.jpg",
+    "Attribution": "MTV International, CC BY 3.0 <https://creativecommons.org/licenses/by/3.0>, via Wikimedia Commons"
+  },
+  "Chris Hemsworth": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Chris_Hemsworth_by_Gage_Skidmore_2_%28cropped%29.jpg/512px-Chris_Hemsworth_by_Gage_Skidmore_2_%28cropped%29.jpg",
+    "Attribution": "Gage Skidmore, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons"
+  },
+  "Emma Stone": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Emma_Stone_at_Maniac_UK_premiere_%28cropped%29.jpg/512px-Emma_Stone_at_Maniac_UK_premiere_%28cropped%29.jpg",
+    "Attribution": "Patrick L., CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons"
+  },
+  "Robert Downey Jr.": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Robert_Downey_Jr_2014_Comic_Con_%28cropped%29.jpg/512px-Robert_Downey_Jr_2014_Comic_Con_%28cropped%29.jpg",
+    "Attribution": "Gage Skidmore, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons"
+  },
+  "Nicole Kidman": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Nicole_Kidman_Cannes_2017_2.jpg/512px-Nicole_Kidman_Cannes_2017_2.jpg",
+    "Attribution": "Georges Biard, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons"
+  },
+  "Johnny Depp": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/2/21/Johnny_Depp_2020.jpg",
+    "Attribution": "Harald Krichel, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons"
+  },
+  "Jennifer Lawrence": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Jennifer_Lawrence_SDCC_2015_X-Men.jpg/512px-Jennifer_Lawrence_SDCC_2015_X-Men.jpg",
+    "Attribution": "Gage Skidmore, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons"
+  },
+  "Bradley Cooper": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Bradley_Cooper_%2811242795155%29_%28cropped%29.jpg/512px-Bradley_Cooper_%2811242795155%29_%28cropped%29.jpg",
+    "Attribution": "Carlos González Santos from Madrid, España, CC0, via Wikimedia Commons"
+  },
+  "Gal Gadot": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Gal_Gadot_cropped_lighting_corrected.jpg/512px-Gal_Gadot_cropped_lighting_corrected.jpg",
+    "Attribution": "By Gage Skidmore, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=50365084, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons"
+  },
+  "Chris Evans": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/3/33/Mark_Kassen%2C_Tony_C%C3%A1rdenas_and_Chris_Evans_%28cropped%29.jpg",
+    "Attribution": "Rosa Pineda, Public domain, via Wikimedia Commons"
+  },
+  "Margot Robbie": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Margot_Robbie_2018_%28cropped%29.png/256px-Margot_Robbie_2018_%28cropped%29.png",
+    "Attribution": "MTV International, CC BY 3.0 <https://creativecommons.org/licenses/by/3.0>, via Wikimedia Commons"
+  },
+  "Matt Damon": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Matt_Damon%2C_Berlinale_2023_%28cropped%29.jpg/512px-Matt_Damon%2C_Berlinale_2023_%28cropped%29.jpg",
+    "Attribution": "Elena Ternovaja, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons"
+  },
+  "Natalie Portman": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Natalie_Portman_in_2005_%28cropped%29.jpg/512px-Natalie_Portman_in_2005_%28cropped%29.jpg",
+    "Attribution": "Jacque fresco, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons"
+  },
+  "Hugh Jackman": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Logan_Japan_Premiere_Red_Carpet-_Hugh_Jackman_%2838445328406%29_%28rotated%29.jpg/512px-Logan_Japan_Premiere_Red_Carpet-_Hugh_Jackman_%2838445328406%29_%28rotated%29.jpg",
+    "Attribution": "Dick Thomas Johnson from Tokyo, Japan, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons"
+  },
+  "Anne Hathaway": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Anne_Hathaway_at_MIFF_%28cropped%29.jpg/512px-Anne_Hathaway_at_MIFF_%28cropped%29.jpg",
+    "Attribution": "MiamiFilmFestivalPhoto by Rene G, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons"
+  },
+  "Michael B Jordan": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/2018-05-12-_Cannes-L%27acteur_Michael_B._Jordan-2721_%2842075892224%29.jpg/512px-2018-05-12-_Cannes-L%27acteur_Michael_B._Jordan-2721_%2842075892224%29.jpg",        
+    "Attribution": "Joan Hernandez Mir, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons"
+  },
+  "Cate Blanchett": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Cate_Blanchett_Berlinale_2023_%28cropped%29.jpg/512px-Cate_Blanchett_Berlinale_2023_%28cropped%29.jpg",
+    "Attribution": "Elena Ternovaja, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons"
+  },
+  "Idris Elba": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Idris_Elba-4580_%28cropped%29.jpg/512px-Idris_Elba-4580_%28cropped%29.jpg",
+    "Attribution": "Harald Krichel, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons"
+  },
+  "Jennifer Lopez": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Jennifer_Lopez_at_GLAAD_Media_Awards_%28cropped%29.jpg/512px-Jennifer_Lopez_at_GLAAD_Media_Awards_%28cropped%29.jpg",
+    "Attribution": "dvsross, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons"
+  },
+  "Mark Wahlberg": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Mark_Wahlberg_2017.jpg/512px-Mark_Wahlberg_2017.jpg",
+    "Attribution": "U.S. Marine Corps photo by Kathy Reesey, Public domain, via Wikimedia Commons"
+  },
+  "Adele": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/5/52/Adele_for_Vogue_in_2021.png",
+    "Attribution": "Condé Nast (through Vogue Taiwan), CC BY 3.0 <https://creativecommons.org/licenses/by/3.0>, via Wikimedia Commons"
+  },
+  "Ryan Gosling": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Ryan_Gosling_by_Gage_Skidmore.jpg/512px-Ryan_Gosling_by_Gage_Skidmore.jpg",
+    "Attribution": "Gage Skidmore, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons"
+  },
+  "Halle Berry": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Halle_Berry_by_Gage_Skidmore.jpg/512px-Halle_Berry_by_Gage_Skidmore.jpg",
+    "Attribution": "Gage Skidmore, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons"
+  },
+  "Emma Watson": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Emma_Watson_2013.jpg/256px-Emma_Watson_2013.jpg",
+    "Attribution": "Georges Biard, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons"
+  },
+  "Tom Cruise": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Tom_Cruise_by_Gage_Skidmore_2.jpg/512px-Tom_Cruise_by_Gage_Skidmore_2.jpg",
+    "Attribution": "Gage Skidmore, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons"
+  },
+  "Amy Adams": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Amy_Adams_UK_Nocturnal_Animals_Premiere_%28cropped%29.jpg/512px-Amy_Adams_UK_Nocturnal_Animals_Premiere_%28cropped%29.jpg",
+    "Attribution": "Patrick L., CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons"
+  },
+  "Samuel L Jackson": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/SamuelLJackson.jpg/512px-SamuelLJackson.jpg",
+    "Attribution": "Philip Romano, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons"
+  },
+  "Gwyneth Paltrow": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Gwyneth_Paltrow_face.jpg/512px-Gwyneth_Paltrow_face.jpg",
+    "Attribution": "Jared Purdy, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons"
+  }
+}

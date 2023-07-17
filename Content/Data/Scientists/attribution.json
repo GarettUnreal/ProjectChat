@@ -1,0 +1,114 @@
+{
+  "Albert Einstein": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Albert_Einstein_Head.jpg/512px-Albert_Einstein_Head.jpg",
+    "Attribution": "Photograph by Orren Jack Turner, Princeton, N.J. Modified with Photoshop by PM_Poon and later by Dantadd., Public domain, via Wikimedia Commons"
+  },
+  "Marie Curie": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Mariecurie.jpg/512px-Mariecurie.jpg",
+    "Attribution": "See page for author, Public domain, via Wikimedia Commons"
+  },
+  "Isaac Newton": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/GodfreyKneller-IsaacNewton-1689.jpg/512px-GodfreyKneller-IsaacNewton-1689.jpg",
+    "Attribution": "James Thronill after Sir Godfrey Kneller, Public domain, via Wikimedia Commons"
+  },
+  "Charles Darwin": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Charles_Darwin_01.jpg/512px-Charles_Darwin_01.jpg",
+    "Attribution": "Julia Margaret Cameron, Public domain, via Wikimedia Commons"
+  },
+  "Nikola Tesla": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Tesla_circa_1890.jpeg/512px-Tesla_circa_1890.jpeg",
+    "Attribution": "Napoleon Sarony, Public domain, via Wikimedia Commons"
+  },
+  "Galileo Galilei": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Justus_Sustermans_-_Portrait_of_Galileo_Galilei%2C_1636.jpg/512px-Justus_Sustermans_-_Portrait_of_Galileo_Galilei%2C_1636.jpg",
+    "Attribution": "Justus Sustermans, Public domain, via Wikimedia Commons"
+  },
+  "Stephen Hawking": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Stephen_Hawking.StarChild.jpg",
+    "Attribution": "NASA, Public domain, via Wikimedia Commons"
+  },
+  "Leonardo da Vinci": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Portrait_of_Leonardo_da_Vinci_%28from_Characaturas_by_Leonardo_da_Vinci%2C_from_Drawings_by_Wincelslaus_Hollar%2C_out_of_the_Portland_Museum%29_MET_DP824104.jpg/512px-Portrait_of_Leonardo_da_Vinci_%28from_Characaturas_by_Leonardo_da_Vinci%2C_from_Drawings_by_Wincelslaus_Hollar%2C_out_of_the_Portland_Museum%29_MET_DP824104.jpg",
+    "Attribution": "Leonardo da Vinci, CC0, via Wikimedia Commons"
+  },
+  "Jane Goodall": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Jane-goodall.jpg/512px-Jane-goodall.jpg",
+    "Attribution": "Muhammad Mahdi Karim (GFDL 1.2 <http://www.gnu.org/licenses/old-licenses/fdl-1.2.html> or FAL), via Wikimedia Commons"
+  },
+  "Alexander Fleming": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Alexander_Fleming_1945.jpg",
+    "Attribution": "Nobel Foundation, Public domain, via Wikimedia Commons"
+  },
+  "Carl Sagan": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/b/be/Carl_Sagan_Planetary_Society.JPG",
+    "Attribution": "NASA/JPL, Public domain, via Wikimedia Commons"
+  },
+  "Rosalind Franklin": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Rosalind-franklin-in-paris_crop.jpg",
+    "Attribution": "CSHL, derivative work Lämpel, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons"
+  },
+  "Neil deGrasse Tyson": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Neil_deGrasse_Tyson_at_Howard_University_September_28%2C_2010_%28cropped_to_shoulders%29.jpg",
+    "Attribution": "Bruce F Press, CC BY 3.0 <https://creativecommons.org/licenses/by/3.0>, via Wikimedia Commons"
+  },
+  "Louis Pasteur": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Louis_Pasteur%2C_foto_av_Paul_Nadar%2C_Crisco_edit.jpg/512px-Louis_Pasteur%2C_foto_av_Paul_Nadar%2C_Crisco_edit.jpg",
+    "Attribution": "Paul Nadar, Public domain, via Wikimedia Commons"
+  },
+  "Alan Turing": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/0/07/Alan_Turing_portr%C3%A9.jpg",
+    "Attribution": "File:Alan Turing az 1930-as években.jpg, Public domain, via Wikimedia Commons"
+  },
+  "Max Planck": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Max_Planck_%281858-1947%29.jpg/512px-Max_Planck_%281858-1947%29.jpg",
+    "Attribution": "Unknown authorUnknown author, credited to Transocean Berlin (see imprint in the lower right corner), Public domain, via Wikimedia Commons"
+  },
+  "Edwin Hubble": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Studio_portrait_photograph_of_Edwin_Powell_Hubble_%28cropped%29.JPG/512px-Studio_portrait_photograph_of_Edwin_Powell_Hubble_%28cropped%29.JPG", 
+    "Attribution": "Johan Hagemeyer (1884-1962), Public domain, via Wikimedia Commons"
+  },
+  "Nikolaus Copernicus": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Nikolaus_Kopernikus.jpg/512px-Nikolaus_Kopernikus.jpg",
+    "Attribution": "District Museum in Toruń, Public domain, via Wikimedia Commons"
+  },
+  "Richard Feynman": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Richard_Feynman_1959.png/512px-Richard_Feynman_1959.png",
+    "Attribution": "See page for author, Public domain, via Wikimedia Commons"
+  },
+  "Francis Crick": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Francis_Crick_1995.jpg/512px-Francis_Crick_1995.jpg",
+    "Attribution": "[1], CC BY 4.0 <https://creativecommons.org/licenses/by/4.0>, via Wikimedia Commons"
+  },
+  "Niels Bohr": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Niels_Bohr_-_LOC_-_ggbain_-_35303.png/512px-Niels_Bohr_-_LOC_-_ggbain_-_35303.png",
+    "Attribution": "Bain News Service, publisher Restored by: Bammesk, Public domain, via Wikimedia Commons"
+  },
+  "Erwin Schrödinger": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Erwin_Schr%C3%B6dinger_-_Narodowe_Archiwum_Cyfrowe_%281-E-939%29.jpg/512px-Erwin_Schr%C3%B6dinger_-_Narodowe_Archiwum_Cyfrowe_%281-E-939%29.jpg",
+    "Attribution": "See page for author, Public domain, via Wikimedia Commons"
+  },
+  "Paul Dirac": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Paul_Dirac%2C_1933.jpg/512px-Paul_Dirac%2C_1933.jpg",
+    "Attribution": "Nobel Foundation, Public domain, via Wikimedia Commons"
+  },
+  "Edward Witten": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Edward_Witten.jpg/512px-Edward_Witten.jpg",
+    "Attribution": "Ojan, Public domain, via Wikimedia Commons"
+  },
+  "John Wheeler": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/f/fe/John_Archibald_Wheeler_1985.jpg",
+    "Attribution": "Emielke, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons"
+  },
+  "Steven Weinberg": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Steven_weinberg_2010.jpg/512px-Steven_weinberg_2010.jpg",
+    "Attribution": "Larry D. Moore, CC BY 4.0 <https://creativecommons.org/licenses/by/4.0>, via Wikimedia Commons"
+  },
+  "Brian Greene": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Brian_Greene%2C_February_28%2C_2014_%28cropped%29.jpg/512px-Brian_Greene%2C_February_28%2C_2014_%28cropped%29.jpg",
+    "Attribution": "Kurt Raschke, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons"
+  },
+  "Michio Kaku": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Michio_Kaku_Presentation-cropped.jpg/512px-Michio_Kaku_Presentation-cropped.jpg",
+    "Attribution": "Cristiano Sant'Anna, CC0, via Wikimedia Commons"
+  }
+}

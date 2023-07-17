@@ -1,0 +1,74 @@
+{
+  "Euler's Identity": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/VignetteEulerIdentity.svg/256px-VignetteEulerIdentity.svg.png",
+    "Attribution": "AstroOgier, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons"
+  },
+  "Fibonacci Sequence": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/PascalTriangleFibanacci.svg/256px-PascalTriangleFibanacci.svg.png",
+    "Attribution": "RDBury, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons"
+  },
+  "Newton's Law of Universal Gravitation": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Newton_s_law_of_universal_gravitation.svg",
+    "Attribution": "Henrycaven3001, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons"
+  },
+  "Golden Ratio": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/1/11/Golden_ratio_segments.png",
+    "Attribution": "Tomruen, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons"
+  },
+  "The Fundamental Theorem of Calculus": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Fundamental_Theorem_of_Calculus.svg",
+    "Attribution": "蔡蜜, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons"
+  },
+  "Bayes' Theorem": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Bayes%27_Theorem_MMB_01.jpg/512px-Bayes%27_Theorem_MMB_01.jpg",
+    "Attribution": "mattbuck (category), CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons"
+  },
+  "Chaos Theory": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Lorenz_system_r28_s10_b2-6666.png/512px-Lorenz_system_r28_s10_b2-6666.png",
+    "Attribution": "Wikimol, Public domain, via Wikimedia Commons"
+  },
+  "Prime Numbers": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Primencomposite0100.svg/512px-Primencomposite0100.svg.png",
+    "Attribution": "Mrmw, CC0, via Wikimedia Commons"
+  },
+  "Pascal's Triangle": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Pascal%27s_triangle_5.svg/512px-Pascal%27s_triangle_5.svg.png",
+    "Attribution": "User:Conrad.Irwin originally User:Drini, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons"
+  },
+  "Riemann Hypothesis": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Riemann_hypothesis_caimi.svg/512px-Riemann_hypothesis_caimi.svg.png",
+    "Attribution": "蔡蜜, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons"
+  },
+  "Fermat's Last Theorem": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Czech_stamp_2000_m259.jpg/512px-Czech_stamp_2000_m259.jpg",
+    "Attribution": "Z. Ziegler, M. Ondrachek, Public domain, via Wikimedia Commons"
+  },
+  "Pythagorean Theorem": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Pythagorean.svg/512px-Pythagorean.svg.png",
+    "Attribution": "en:User:Wapcaplet, CC BY-SA 3.0 <http://creativecommons.org/licenses/by-sa/3.0/>, via Wikimedia Commons"
+  },
+  "Drake Equation": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Europa_Rising_-_Drake_Equation_%2814486519161%29.jpg/512px-Europa_Rising_-_Drake_Equation_%2814486519161%29.jpg",
+    "Attribution": "Kevin Gill from Los Angeles, CA, United States, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons"
+  },
+  "Schrödinger Equation": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Schrodinger_Equation.png/512px-Schrodinger_Equation.png",
+    "Attribution": "n.a., Public domain, via Wikimedia Commons"
+  },
+  "Gömböc": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Gomboc2.jpg/512px-Gomboc2.jpg",
+    "Attribution": "Domokos, Public domain, via Wikimedia Commons"
+  },
+  "Mobius Strip": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/M%C3%B6bius_strip.jpg/512px-M%C3%B6bius_strip.jpg",
+    "Attribution": "David Benbennick, CC BY-SA 3.0 <http://creativecommons.org/licenses/by-sa/3.0/>, via Wikimedia Commons"
+  },
+  "Mandelbrot Set": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Mandelbrot_20210411_007.png",
+    "Attribution": "PantheraLeo1359531, CC0, via Wikimedia Commons"
+  },
+  "The Koch Snowflake": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Koch_Snowflake_7th_iteration.png/512px-Koch_Snowflake_7th_iteration.png",
+    "Attribution": "Walwal20, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons"
+  }
+}

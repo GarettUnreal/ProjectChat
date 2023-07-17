@@ -1,0 +1,110 @@
+{
+  "Sun": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/The_Sun_by_the_Atmospheric_Imaging_Assembly_of_NASA%27s_Solar_Dynamics_Observatory_-_20100819.jpg/512px-The_Sun_by_the_Atmospheric_Imaging_Assembly_of_NASA%27s_Solar_Dynamics_Observatory_-_20100819.jpg",
+    "Attribution": "NASA/SDO (AIA), Public domain, via Wikimedia Commons"
+  },
+  "Moon": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/FullMoon2010.jpg/512px-FullMoon2010.jpg",
+    "Attribution": "Gregory H. Revera, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons"
+  },
+  "Mercury": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Mercury_in_true_color.jpg/512px-Mercury_in_true_color.jpg",
+    "Attribution": "NASA/Johns Hopkins University Applied Physics Laboratory/Arizona State University/Carnegie Institution of Washington, Public domain, via Wikimedia Commons"
+  },
+  "Venus": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Venus_from_Mariner_10.jpg/512px-Venus_from_Mariner_10.jpg",
+    "Attribution": "NASA/JPL-Caltech, Public domain, via Wikimedia Commons"
+  },
+  "Mars": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/OSIRIS_Mars_true_color.jpg/512px-OSIRIS_Mars_true_color.jpg",
+    "Attribution": "ESA & MPS for OSIRIS Team MPS/UPD/LAM/IAA/RSSD/INTA/UPM/DASP/IDA, CC BY-SA IGO 3.0, CC BY-SA 3.0 IGO <https://creativecommons.org/licenses/by-sa/3.0/igo/deed.en>, via Wikimedia Commons"
+  },
+  "Jupiter": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Massive_Beauty_%28Jupiter%29_by_NASA.jpg/512px-Massive_Beauty_%28Jupiter%29_by_NASA.jpg",
+    "Attribution": "NASA/JPL-Caltech/SwRI/MSSS, Public domain, via Wikimedia Commons"
+  },
+  "Saturn": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Saturn_%28planet%29_large.jpg/512px-Saturn_%28planet%29_large.jpg",
+    "Attribution": "Voyager 2, Public domain, via Wikimedia Commons"
+  },
+  "Uranus": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Auroras_on_Uranus.jpg/512px-Auroras_on_Uranus.jpg",
+    "Attribution": "NASA Hubble, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons"
+  },
+  "Neptune": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Neptune_Full.jpg/512px-Neptune_Full.jpg",
+    "Attribution": "NASA, Public domain, via Wikimedia Commons"
+  },
+  "Pluto": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Pluto-01_Stern_03_Pluto_Color_TXT.jpg/512px-Pluto-01_Stern_03_Pluto_Color_TXT.jpg",
+    "Attribution": "NASA / Johns Hopkins University Applied Physics Laboratory / Southwest Research Institute, Public domain, via Wikimedia Commons"
+  },
+  "Comet": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Comet_Hale-Bopp_1995O1.jpg/512px-Comet_Hale-Bopp_1995O1.jpg",
+    "Attribution": "E. Kolmhofer, H. Raab; Johannes-Kepler-Observatory, Linz, Austria (http://www.sternwarte.at), CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons"
+  },
+  "Asteroid": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Galileo_Gaspra_Mosaic.jpg/512px-Galileo_Gaspra_Mosaic.jpg",
+    "Attribution": "NASA, Public domain, via Wikimedia Commons"
+  },
+  "Black Hole": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Black_hole%27s_accretion_disk_blank.xcf/512px-Black_hole%27s_accretion_disk_blank.xcf.png",
+    "Attribution": "NASA’s Goddard Space Flight Center/Jeremy Schnittman, cmglee, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons"
+  },
+  "Quasar": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Quasar_with_jet_and_magnetic_lines.jpg/512px-Quasar_with_jet_and_magnetic_lines.jpg",
+    "Attribution": "NASA/CXC/M. Weiss, Public domain, via Wikimedia Commons"
+  },
+  "Milky Way": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/ESO_-_Milky_Way.jpg/512px-ESO_-_Milky_Way.jpg",
+    "Attribution": "ESO/S. Brunier, CC BY 4.0 <https://creativecommons.org/licenses/by/4.0>, via Wikimedia Commons"
+  },
+  "Andromeda Galaxy": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Crab_Nebula.jpg/512px-Crab_Nebula.jpg",
+    "Attribution": "NASA, ESA, J. Hester and A. Loll (Arizona State University), Public domain, via Wikimedia Commons"
+  },
+  "Horsehead Nebula": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Horsehead_nebula.png/512px-Horsehead_nebula.png",
+    "Attribution": "Pablo Carlos Budassi, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons"
+  },
+  "Orion Nebula": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Orion_Nebula_-_Hubble_2006_mosaic_18000.jpg",
+    "Attribution": "NASA, ESA, M. Robberto (Space Telescope Science Institute/ESA) and the Hubble Space Telescope Orion Treasury Project Team, Public domain, via Wikimedia Commons"
+  },
+  "Pleiades Star Cluster": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/The_Pleiades_Star_Cluster_%2848824393137%29.jpg/512px-The_Pleiades_Star_Cluster_%2848824393137%29.jpg",
+    "Attribution": "Stephen Rahn from Macon, GA, USA, CC0, via Wikimedia Commons"
+  },
+  "Great Red Spot": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Jupiter_-_Great_Red_Spot_-_IR-VIO_-_Jun_26_1996_%2827014003281%29.jpg/512px-Jupiter_-_Great_Red_Spot_-_IR-VIO_-_Jun_26_1996_%2827014003281%29.jpg",
+    "Attribution": "Kevin Gill from Los Angeles, CA, United States, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons"
+  },
+  "Helix Nebula": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Comets_Kick_up_Dust_in_Helix_Nebula_%28PIA09178%29.jpg/512px-Comets_Kick_up_Dust_in_Helix_Nebula_%28PIA09178%29.jpg",
+    "Attribution": "NASA/JPL-Caltech/Univ. of Ariz., Public domain, via Wikimedia Commons"
+  },
+  "Eagle Nebula": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/The_Eagle_Nebula_M16_Goran_Nilsson_%26_The_Liverpool_Telescope.jpg/512px-The_Eagle_Nebula_M16_Goran_Nilsson_%26_The_Liverpool_Telescope.jpg",
+    "Attribution": "Göran Nilsson & The Liverpool Telescope, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons"
+  },
+  "Whirlpool Galaxy": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Messier51_sRGB.jpg/512px-Messier51_sRGB.jpg",
+    "Attribution": "NASA and European Space Agency, Public domain, via Wikimedia Commons"
+  },
+  "Sombrero Galaxy": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/M104_ngc4594_sombrero_galaxy_hi-res.jpg/512px-M104_ngc4594_sombrero_galaxy_hi-res.jpg",
+    "Attribution": "NASA/ESA and The Hubble Heritage Team (STScI/AURA), Public domain, via Wikimedia Commons"
+  },
+  "Triangulum Galaxy": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/VST_snaps_a_very_detailed_view_of_the_Triangulum_Galaxy.jpg/512px-VST_snaps_a_very_detailed_view_of_the_Triangulum_Galaxy.jpg",
+    "Attribution": "ESO, CC BY 4.0 <https://creativecommons.org/licenses/by/4.0>, via Wikimedia Commons"
+  },
+  "Cassiopeia A (Supernova Remnant)": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/CassiopeiaNASAPIA03519.jpg/512px-CassiopeiaNASAPIA03519.jpg",
+    "Attribution": "NASA/JPL-Caltech/STScI/CXC/SAOAnimation: NASA/JPL-Caltech/Univ. of Ariz./STScI/CXC/SAO, Public domain, via Wikimedia Commons"
+  },
+  "Sagittarius A Black Hole": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/EHT_Saggitarius_A_black_hole.tif/lossy-page1-600px-EHT_Saggitarius_A_black_hole.tif.jpg",
+    "Attribution": "EHT Collaboration, CC BY 4.0 <https://creativecommons.org/licenses/by/4.0>, via Wikimedia Commons"
+  }
+}

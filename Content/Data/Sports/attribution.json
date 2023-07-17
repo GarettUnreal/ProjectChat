@@ -1,0 +1,90 @@
+{
+  "Football": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Virtual_football.jpg/512px-Virtual_football.jpg",
+    "Attribution": "Knowfan, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons"
+  },
+  "Basketball": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Carter_vs_Gasol%2C_Lakers_vs_Magic.jpg",
+    "Attribution": "Tim Wang, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons"
+  },
+  "Baseball": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Douliou_Baseball_012.jpg",
+    "Attribution": "En.wikipedia upload by Kc0616, CC BY 2.5 <https://creativecommons.org/licenses/by/2.5>, via Wikimedia Commons"
+  },
+  "Tennis": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/2015_US_Open_Tennis_-_Tournament_-_Richard_Gasquet_%28FRA%29_%2812%29_def._Bernard_Tomic_%28AUS%29_%2824%29_%2821005280588%29.jpg/512px-2015_US_Open_Tennis_-_Tournament_-_Richard_Gasquet_%28FRA%29_%2812%29_def._Bernard_Tomic_%28AUS%29_%2824%29_%2821005280588%29.jpg",
+    "Attribution": "Steven Pisano from Brooklyn, NY, USA, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons"
+  },
+  "Golf": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Golfer_swing.jpg/512px-Golfer_swing.jpg",
+    "Attribution": "Lilrizz, CC0, via Wikimedia Commons"
+  },
+  "Hockey": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/20150207_1850_Ice_Hockey_AUT_SVK_9930.jpg/512px-20150207_1850_Ice_Hockey_AUT_SVK_9930.jpg",
+    "Attribution": "Ailura, CC BY-SA 3.0 AT, CC BY-SA 3.0 AT <https://creativecommons.org/licenses/by-sa/3.0/at/deed.en>, via Wikimedia Commons"
+  },
+  "Cricket": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Muralitharan_bowling_to_Adam_Gilchrist.jpg/512px-Muralitharan_bowling_to_Adam_Gilchrist.jpg",
+    "Attribution": "Rae Allen from Brisbane, Australia, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons"
+  },
+  "Rugby": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/USO_-_Saracens_-_20151213_-_Maro_Itoje_attacking.jpg/512px-USO_-_Saracens_-_20151213_-_Maro_Itoje_attacking.jpg",
+    "Attribution": "Clément Bucco-Lechat, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons"
+  },
+  "Volleyball": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Bulgaria-serbia_volley_2012.jpg/512px-Bulgaria-serbia_volley_2012.jpg",
+    "Attribution": "Biser Todorov, CC BY 3.0 <https://creativecommons.org/licenses/by/3.0>, via Wikimedia Commons"
+  },
+  "Badminton": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Badminton_Semifinal_Pan_2007.jpg/512px-Badminton_Semifinal_Pan_2007.jpg",
+    "Attribution": "Wilson Dias/ABr, CC BY 3.0 BR <https://creativecommons.org/licenses/by/3.0/br/deed.en>, via Wikimedia Commons"
+  },
+  "Table Tennis": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Ishikawa_and_Fukuhara_at_Table_Tennis_Pro_Tour_Grand_Finals_2011_%282%29.jpg/512px-Ishikawa_and_Fukuhara_at_Table_Tennis_Pro_Tour_Grand_Finals_2011_%282%29.jpg",    
+    "Attribution": "Didier Garcon on Picasa Web Albums, CC BY 3.0 <https://creativecommons.org/licenses/by/3.0>, via Wikimedia Commons"
+  },
+  "Swimming": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/H%C3%A0bit_Saludable.jpg/512px-H%C3%A0bit_Saludable.jpg",
+    "Attribution": "Consell Comarcal del Baix Empordà, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons"
+  },
+  "Boxing": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/JonesvsTrinidad.jpg/512px-JonesvsTrinidad.jpg",
+    "Attribution": "mborowick, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons"
+  },
+  "Cycling": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/TourDeFrance_2005_07_09.jpg/512px-TourDeFrance_2005_07_09.jpg",
+    "Attribution": "Vzach, Public domain, via Wikimedia Commons"
+  },
+  "Wrestling": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/USCGA_Competes_in_2018_NCAA_Division_III_National_Wrestling_Championships_-_Image_7_of_8.jpg/512px-USCGA_Competes_in_2018_NCAA_Division_III_National_Wrestling_Championships_-_Image_7_of_8.jpg",
+    "Attribution": "U.S. Coast Guard photo by Petty Officer 3rd Class Brian McCrum, Public domain, via Wikimedia Commons"
+  },
+  "Gymnastics": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Gym_combination_2.JPG/512px-Gym_combination_2.JPG",
+    "Attribution": "Rainer Weisflog, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons"
+  },
+  "Formula 1": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/2015_Malaysian_GP_opening_lap.jpg/512px-2015_Malaysian_GP_opening_lap.jpg",
+    "Attribution": "Morio, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons"
+  },
+  "Motocross": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Mundial_de_motocross.JPG/512px-Mundial_de_motocross.JPG",
+    "Attribution": "Adriskala, Public domain, via Wikimedia Commons"
+  },
+  "Surfing": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/2010_mavericks_competition_edit1.jpg/512px-2010_mavericks_competition_edit1.jpg",
+    "Attribution": "2010_mavericks_competition.jpg: Shalom Jacobovitzderivative work: Brocken Inaglory ([[User talk:Brocken Inaglory|talk]]), CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons"        
+  },
+  "Skateboarding": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Stephen_Hill_skateboarding%2C_Port_Melbourne%2C_2023.jpg/512px-Stephen_Hill_skateboarding%2C_Port_Melbourne%2C_2023.jpg",
+    "Attribution": "Jbro68, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons"
+  },
+  "Snowboarding": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Ryan_McDonald_2005_Continental_Cup.jpg/512px-Ryan_McDonald_2005_Continental_Cup.jpg",
+    "Attribution": "Jack L. Gillund, Public domain, via Wikimedia Commons"
+  },
+  "Skiing": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Ski_Famille_-_Family_Ski_Holidays.jpg/512px-Ski_Famille_-_Family_Ski_Holidays.jpg",
+    "Attribution": "Robinseed, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons"
+  }
+}

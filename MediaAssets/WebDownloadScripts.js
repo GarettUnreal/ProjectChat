@@ -14,6 +14,13 @@ for(var name in myObj) {
 	ImgArray.push({"filename": name, "src": myObj[name]["URL"]});
 }
 
+function setImgArray(myObj) {
+	ImgArray = [];
+	for(var name in myObj) {
+		ImgArray.push({"filename": name, "src": myObj[name]["URL"]});
+	}
+}
+
 function sleep(ms) {
     return new Promise(resolve => setTimeout(resolve, ms));
 }

@@ -4,7 +4,7 @@
 #include "TopPlayers.h"
 
 UTopPlayers::UTopPlayers() :
-	MaxTopPlayers(10),
+	MaxTopPlayers(15),
 	MinTopScore(0),
 	_IsDirty(false)
 {}
@@ -34,13 +34,20 @@ bool UTopPlayers::TryAddNewPlayer(const FPlayerScore& NewPlayer)
 	}
 	else
 	{
+		bool WasInserted = false;
 		for (int32 index = 0; index < TopPerformers.Num(); index++)
 		{
 			if (NewPlayer.Score > TopPerformers[index].Score)
 			{
 				TopPerformers.Insert(NewPlayer, index);
+				WasInserted = true;
 				break;
 			}
+		}
+
+		if (!WasInserted)
+		{
+			TopPerformers.Add(NewPlayer);
 		}
 
 		if (TopPerformers.Num() > MaxTopPlayers)

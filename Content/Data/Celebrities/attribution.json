@@ -63,9 +63,10 @@
     "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Emma_Stone_at_Maniac_UK_premiere_%28cropped%29.jpg/512px-Emma_Stone_at_Maniac_UK_premiere_%28cropped%29.jpg",
     "Attribution": "Patrick L., CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons"
   },
-  "Robert Downey Jr.": {
+  "Robert Downey Jr": {
     "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Robert_Downey_Jr_2014_Comic_Con_%28cropped%29.jpg/512px-Robert_Downey_Jr_2014_Comic_Con_%28cropped%29.jpg",
-    "Attribution": "Gage Skidmore, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons"
+    "Attribution": "Gage Skidmore, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+	"DisplayName": "Robert Downey Jr."
   },
   "Nicole Kidman": {
     "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Nicole_Kidman_Cannes_2017_2.jpg/512px-Nicole_Kidman_Cannes_2017_2.jpg",

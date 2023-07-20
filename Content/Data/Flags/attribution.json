@@ -139,9 +139,10 @@
 		"URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/512px-Flag_of_Chile.svg.png",
 		"Attribution": "See file history below for details., Public domain, via Wikimedia Commons"
 	},
-	"People's Republic of China": {
+	"Peoples Republic of China": {
 		"URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/512px-Flag_of_the_People%27s_Republic_of_China.svg.png",
-		"Attribution": "Drawn by SKopp, Vectorization:  Denelson83 and Zscout370Recode by -xfi- (code), Shizhao (colors), Public domain, via Wikimedia Commons"
+		"Attribution": "Drawn by SKopp, Vectorization:  Denelson83 and Zscout370Recode by -xfi- (code), Shizhao (colors), Public domain, via Wikimedia Commons",
+		"DisplayName": "People's Republic of China"
 	},
 	"Colombia": {
 		"URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/512px-Flag_of_Colombia.svg.png",

@@ -1,15 +1,17 @@
 {
-  "Euler's Identity": {
+  "Eulers Identity": {
     "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/VignetteEulerIdentity.svg/256px-VignetteEulerIdentity.svg.png",
-    "Attribution": "AstroOgier, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons"
+    "Attribution": "AstroOgier, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
+	"DisplayName": "Euler's Identity"
   },
   "Fibonacci Sequence": {
     "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/PascalTriangleFibanacci.svg/256px-PascalTriangleFibanacci.svg.png",
     "Attribution": "RDBury, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons"
   },
-  "Newton's Law of Universal Gravitation": {
+  "Newtons Law of Universal Gravitation": {
     "URL": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Newton_s_law_of_universal_gravitation.svg",
-    "Attribution": "Henrycaven3001, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons"
+    "Attribution": "Henrycaven3001, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
+	"DisplayName": "Newton's Law of Universal Gravitation"
   },
   "Golden Ratio": {
     "URL": "https://upload.wikimedia.org/wikipedia/commons/1/11/Golden_ratio_segments.png",
@@ -19,9 +21,10 @@
     "URL": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Fundamental_Theorem_of_Calculus.svg",
     "Attribution": "蔡蜜, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons"
   },
-  "Bayes' Theorem": {
+  "Bayes Theorem": {
     "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Bayes%27_Theorem_MMB_01.jpg/512px-Bayes%27_Theorem_MMB_01.jpg",
-    "Attribution": "mattbuck (category), CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons"
+    "Attribution": "mattbuck (category), CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+	"DisplayName": "Bayes' Theorem"
   },
   "Chaos Theory": {
     "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Lorenz_system_r28_s10_b2-6666.png/512px-Lorenz_system_r28_s10_b2-6666.png",
@@ -31,17 +34,19 @@
     "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Primencomposite0100.svg/512px-Primencomposite0100.svg.png",
     "Attribution": "Mrmw, CC0, via Wikimedia Commons"
   },
-  "Pascal's Triangle": {
+  "Pascals Triangle": {
     "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Pascal%27s_triangle_5.svg/512px-Pascal%27s_triangle_5.svg.png",
-    "Attribution": "User:Conrad.Irwin originally User:Drini, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons"
+    "Attribution": "User:Conrad.Irwin originally User:Drini, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons",
+	"DisplayName": "Pascal's Triangle"
   },
   "Riemann Hypothesis": {
     "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Riemann_hypothesis_caimi.svg/512px-Riemann_hypothesis_caimi.svg.png",
     "Attribution": "蔡蜜, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons"
   },
-  "Fermat's Last Theorem": {
+  "Fermats Last Theorem": {
     "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Czech_stamp_2000_m259.jpg/512px-Czech_stamp_2000_m259.jpg",
-    "Attribution": "Z. Ziegler, M. Ondrachek, Public domain, via Wikimedia Commons"
+    "Attribution": "Z. Ziegler, M. Ondrachek, Public domain, via Wikimedia Commons",
+	"DisplayName": "Fermat's Last Theorem"
   },
   "Pythagorean Theorem": {
     "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Pythagorean.svg/512px-Pythagorean.svg.png",

@@ -3,6 +3,12 @@
 
 #include "ChatBPFunctionLibrary.h"
 #include "HAL/FileManagerGeneric.h"
+//#include "IPlatformFilePak.h"
+//#include "AssetRegistryModule.h"
+#include "HAL/PlatformFilemanager.h"
+#include "IPlatformFilePak.h"
+#include "AssetRegistry/AssetRegistryModule.h"
+#include "AttributionJSONAsset.h"
 
 bool UChatBPFunctionLibrary::IsFirstCharacterWhitespace(const FString& String)
 {
@@ -106,4 +112,176 @@ TArray<UObject*> UChatBPFunctionLibrary::DynamicLoadContentFromPath(FString Path
 	}
 
 	return Array;
+}
+
+FString UChatBPFunctionLibrary::CamelToDisplay(const FString& CamelCase)
+{
+	FString Result;
+
+	for (int index = 0; index < CamelCase.Len(); index++)
+	{
+		if (TChar<TCHAR>::IsUpper(CamelCase[index]))
+		{
+			Result.AppendChar(TCHAR(' '));
+		}
+		Result.AppendChar(CamelCase[index]);
+	}
+
+	return Result;
+}
+
+FString UChatBPFunctionLibrary::DisplayToCamel(const FString& CamelCase)
+{
+	FString Result;
+
+	for (int index = 0; index < CamelCase.Len(); index++)
+	{
+		if (CamelCase[index] != TCHAR(' '))
+		{
+			Result.AppendChar(CamelCase[index]);
+		}
+	}
+
+	return Result;
+}
+
+TArray<FString> UChatBPFunctionLibrary::ReadSubfolders(const FString& Folder)
+{
+	FString YourFolderPath = Folder;
+	// Get a reference to the AssetRegistry module
+	FAssetRegistryModule& AssetRegistryModule = FModuleManager::LoadModuleChecked<FAssetRegistryModule>("AssetRegistry");
+
+	// Get the Asset Registry interface
+	IAssetRegistry& AssetRegistry = AssetRegistryModule.Get();
+
+	TSet<FString> Subdirectories;
+
+	// Create an asset query filter
+	FARFilter Filter;
+	Filter.PackagePaths.Add(FName(*YourFolderPath));
+	Filter.bRecursivePaths = true;
+	Filter.ClassNames.Add(UTexture2D::StaticClass()->GetFName());
+
+	// Query assets using the filter
+	TArray<FAssetData> AssetData;
+	AssetRegistry.GetAssets(Filter, AssetData);
+
+	for (const FAssetData& Data : AssetData)
+	{
+		FString AssetPath = Data.PackagePath.ToString();
+
+		// Check if the asset is within our desired folder
+		if (AssetPath.StartsWith(YourFolderPath))
+		{
+			FString RelativePath = AssetPath.RightChop(YourFolderPath.Len());
+			TArray<FString> PathParts;
+			RelativePath.ParseIntoArray(PathParts, TEXT("/"), true);
+
+			if (PathParts.Num() > 0)
+			{
+				Subdirectories.Add(PathParts[0]);
+			}
+		}
+	}
+
+	return Subdirectories.Array();
+}
+
+TArray<FJSONAssetInfo> UChatBPFunctionLibrary::FindCategoryInfo()
+{
+	// Get a reference to the AssetRegistry module
+	FAssetRegistryModule& AssetRegistryModule = FModuleManager::LoadModuleChecked<FAssetRegistryModule>("AssetRegistry");
+
+	// Get the Asset Registry interface
+	IAssetRegistry& AssetRegistry = AssetRegistryModule.Get();
+
+	TArray<FJSONAssetInfo> AssetInfoArray;
+
+	// Create an asset query filter
+	FARFilter Filter;
+	Filter.bRecursivePaths = true;
+	Filter.ClassNames.Add(UAttributionJSONAsset::StaticClass()->GetFName());
+
+	// Query assets using the filter
+	TArray<FAssetData> AssetData;
+	AssetRegistry.GetAssets(Filter, AssetData);
+
+	for (const FAssetData& Data : AssetData)
+	{
+		FJSONAssetInfo Info;
+
+		Info.AssetReferencePath = Data.GetSoftObjectPath().ToString();
+
+		FString AssetPath = Data.PackagePath.ToString();
+		Info.ContainingFolderName = FPaths::GetCleanFilename(AssetPath); // This gets the last folder (or filename) from the path
+
+		AssetInfoArray.Add(Info);
+	}
+
+	return AssetInfoArray;
+}
+
+FString UChatBPFunctionLibrary::GetJSONDataFromAssetPath(const FString& AssetPath)
+{
+	// Load the asset using its path
+	UObject* LoadedObject = StaticLoadObject(UAttributionJSONAsset::StaticClass(), nullptr, *AssetPath);
+
+	if (LoadedObject != NULL)
+	{
+		// Cast the loaded object to your UYourJSONAsset type
+		UAttributionJSONAsset* JSONAsset = Cast<UAttributionJSONAsset>(LoadedObject);
+
+		if (JSONAsset != NULL)
+		{
+			// Access the desired data from the asset
+			return JSONAsset->JSONObject;
+		}
+	}
+
+	return ""; // Return empty string if asset wasn't loaded or cast failed
+}
+
+TArray<UTexture2D*> UChatBPFunctionLibrary::LoadAdjacentTexturesFromAssetPath(const FString& AssetPath)
+{
+	TArray<UTexture2D*> LoadedTextures;
+
+	// Extract the directory from the asset path
+	FString AssetDirectory = FPaths::GetPath(AssetPath);
+
+	// Get a reference to the AssetRegistry module
+	FAssetRegistryModule& AssetRegistryModule = FModuleManager::LoadModuleChecked<FAssetRegistryModule>("AssetRegistry");
+
+	// Get the Asset Registry interface
+	IAssetRegistry& AssetRegistry = AssetRegistryModule.Get();
+
+	// Create an asset query filter for textures in the specified directory
+	FARFilter Filter;
+	Filter.PackagePaths.Add(*AssetDirectory);
+	Filter.ClassNames.Add(UTexture2D::StaticClass()->GetFName());
+
+	// Query assets using the filter
+	TArray<FAssetData> AssetData;
+	AssetRegistry.GetAssets(Filter, AssetData);
+
+	// Load each found texture and add it to the result array
+	for (const FAssetData& Data : AssetData)
+	{
+		UTexture2D* Texture = Cast<UTexture2D>(Data.GetAsset());
+		if (Texture)
+		{
+			LoadedTextures.Add(Texture);
+		}
+	}
+
+	return LoadedTextures;
+}
+
+FString UChatBPFunctionLibrary::GetBaseFileNameOfTexture(UTexture2D* Texture)
+{
+	if (Texture)
+	{
+		FString FullPath = Texture->GetPathName();
+		return FPaths::GetBaseFilename(FullPath);
+	}
+	return TEXT("");
 }

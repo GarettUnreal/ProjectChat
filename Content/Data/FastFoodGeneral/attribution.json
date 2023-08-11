@@ -9,7 +9,8 @@
   },
   "Chicken nuggets": {
     "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Chicken_Nuggets.jpg/512px-Chicken_Nuggets.jpg",
-    "Attribution": "James Palinsad, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons"
+    "Attribution": "James Palinsad, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+	"DisplayName": "Chicken nuggets"
   },
   "Hot dog": {
     "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Hot_dog_with_mustard.png/512px-Hot_dog_with_mustard.png",
@@ -90,5 +91,109 @@
   "Cinnamon roll": {
     "URL": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Cinnamon_roll_and_fork%2C_2009-11-01.jpg",
     "Attribution": "Steven Depolo, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons"
+  },
+  "Pizza": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Pizza_%2825569353288%29.jpg/512px-Pizza_%2825569353288%29.jpg",
+    "Attribution": "Dale Cruse from San Francisco, CA, USA, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons"
+  },
+  "Spaghetti": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Spaghetti2.jpg/512px-Spaghetti2.jpg",
+    "Attribution": "Popo le Chien, CC0, via Wikimedia Commons"
+  },
+  "Lobster roll": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Maine_Lobster_Roll_%2815506681328%29.jpg/512px-Maine_Lobster_Roll_%2815506681328%29.jpg",
+    "Attribution": "Navin75, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons"
+  },
+  "Gyros": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Pita_giros.JPG/512px-Pita_giros.JPG",
+    "Attribution": "Antonio Fajardo i López, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons"
+  },
+  "Tiramisu": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Classic_Italian_Tiramisu-3_%2829989504485%29.jpg/512px-Classic_Italian_Tiramisu-3_%2829989504485%29.jpg",
+    "Attribution": "Sharon Chen from Austin, United States, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons"
+  },
+  "Cheesecake": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Baked_cheesecake_with_raspberries_and_blueberries.jpg/512px-Baked_cheesecake_with_raspberries_and_blueberries.jpg",
+    "Attribution": "zingyyellow, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons"
+  },
+  "Ramen": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Yeul_Ramen_20210817_002.jpg/512px-Yeul_Ramen_20210817_002.jpg",
+    "Attribution": "Mobius6, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons"
+  },
+  "Paella": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/01_Paella_Valenciana_original.jpg/512px-01_Paella_Valenciana_original.jpg",
+    "Attribution": "Jan Harenburg, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons"
+  },
+  "Bibimbap": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bibimbap_at_Micun_Bibimbap%2C_CapitaMall_Crystal_%2820211212122041%29.jpg/512px-Bibimbap_at_Micun_Bibimbap%2C_CapitaMall_Crystal_%2820211212122041%29.jpg",
+    "Attribution": "N509FZ, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons"
+  },
+  "Croissant": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Croissant_in_black_background.png/512px-Croissant_in_black_background.png",
+    "Attribution": "Midjourney AI, prompted by Netha Hussain, CC0, via Wikimedia Commons"
+  },
+  "Pancakes": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Pancake_stack_4.jpg/512px-Pancake_stack_4.jpg",
+    "Attribution": "Shisma, CC BY 4.0 <https://creativecommons.org/licenses/by/4.0>, via Wikimedia Commons",
+	"DisplayName": "Pancake"
+  },
+  "Caesar salad": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Caesar_salad_%281%29.jpg/512px-Caesar_salad_%281%29.jpg",
+    "Attribution": "stu_spivack, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons"
+  },
+  "Eclairs": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Eclair_with_a_fork.jpg/512px-Eclair_with_a_fork.jpg",
+    "Attribution": "Fran1812, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
+	"DisplayName": "Eclair"
+  },
+  "Fajitas": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Chicken_fajitas_-_La_Hacienda_-_Sarah_Stierch.jpg/512px-Chicken_fajitas_-_La_Hacienda_-_Sarah_Stierch.jpg",
+    "Attribution": "Missvain, CC BY 4.0 <https://creativecommons.org/licenses/by/4.0>, via Wikimedia Commons",
+	"DisplayName": "Fajita"
+  },
+  "Gnocchi": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Gnocchi_di_ricotta_burro_e_salvia.jpg/512px-Gnocchi_di_ricotta_burro_e_salvia.jpg",
+    "Attribution": "Paoletta S., CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons"
+  },
+  "Churros": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Churros_en_vasos_en_Londres_-_A_Taste_of_Spain.jpg/512px-Churros_en_vasos_en_Londres_-_A_Taste_of_Spain.jpg",
+    "Attribution": "Garry Knight from London, England, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons"
+  },
+  "Samosas": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Vegetarian_Samosa.jpg/512px-Vegetarian_Samosa.jpg",
+    "Attribution": "Ralbahitha, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
+	"DisplayName": "Samosa"
+  },
+  "Macarons": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Macarons%2C_French_made_mini_cakes.JPG/512px-Macarons%2C_French_made_mini_cakes.JPG",
+    "Attribution": "Nicolas Halftermeyer, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons"
+  },
+  "Dim sum": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Dim_Sum_Breakfast.jpg/512px-Dim_Sum_Breakfast.jpg",
+    "Attribution": "afterdog, CC0, via Wikimedia Commons"
+  },
+  "Apple pie": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Apple_pie.jpg/512px-Apple_pie.jpg",
+    "Attribution": "Dan Parsons, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons"
+  },
+  "Sacher torte": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Original_sacher_torte.jpg/512px-Original_sacher_torte.jpg",
+    "Attribution": "Fooding Around, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons"
+  },
+  "Beignets": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Beignets_2.jpg/512px-Beignets_2.jpg",
+    "Attribution": "Morten Haan, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons"
+  },
+  "Falafel": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Bowl_of_falafel.jpg/512px-Bowl_of_falafel.jpg",
+    "Attribution": "EvanProdromou, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons"
+  },
+  "Ratatouille": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Ratatouille%2C_Mazatl%C3%A1n%2C_21_de_junio_de_2023_02.jpg/512px-Ratatouille%2C_Mazatl%C3%A1n%2C_21_de_junio_de_2023_02.jpg",
+    "Attribution": "El Nuevo Doge, CC0, via Wikimedia Commons"
+  },
+  "Chocolate mousse": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Chocolate_Mousse.jpg",
+    "Attribution": "Rexipe Rexipe from London, UK, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons"
   }
 }

@@ -106,5 +106,145 @@
   "Sagittarius A Black Hole": {
     "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/EHT_Saggitarius_A_black_hole.tif/lossy-page1-600px-EHT_Saggitarius_A_black_hole.tif.jpg",
     "Attribution": "EHT Collaboration, CC BY 4.0 <https://creativecommons.org/licenses/by/4.0>, via Wikimedia Commons"
+  },
+  "Messier 82": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/M82_HST_ACS_2006-14-a-large_web.jpg/512px-M82_HST_ACS_2006-14-a-large_web.jpg",
+    "Attribution": "NASA, ESA, and The Hubble Heritage Team (STScI/AURA), Public domain, via Wikimedia Commons"
+  },
+  "Omega Centauri": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Omega_Centauri_by_ESO.jpg/512px-Omega_Centauri_by_ESO.jpg",
+    "Attribution": "ESO, CC BY 4.0 <https://creativecommons.org/licenses/by/4.0>, via Wikimedia Commons"
+  },
+  "Crab Nebula": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Crab_Nebula.jpg/512px-Crab_Nebula.jpg",
+    "Attribution": "NASA, ESA, J. Hester and A. Loll (Arizona State University), Public domain, via Wikimedia Commons"
+  },
+  "Canis Major Dwarf Galaxy": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/7/77/Canis_major_dwarf.jpg",
+    "Attribution": "R. Ibata .- 2MASS, NASA, Public domain, via Wikimedia Commons"
+  },
+  "Large Magellanic Cloud": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Eso1021d.jpg/512px-Eso1021d.jpg",
+    "Attribution": "Robert Gendler/ESO, CC BY 4.0 <https://creativecommons.org/licenses/by/4.0>, via Wikimedia Commons"
+  },
+  "Small Magellanic Cloud": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Small_Magellanic_Cloud_%28Digitized_Sky_Survey_2%29.jpg/512px-Small_Magellanic_Cloud_%28Digitized_Sky_Survey_2%29.jpg",
+    "Attribution": "ESA/Hubble and Digitized Sky Survey 2, CC BY 4.0 <https://creativecommons.org/licenses/by/4.0>, via Wikimedia Commons"
+  },
+  "Ceres": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Ceres_-_RC3_-_Haulani_Crater_%2822381131691%29_%28cropped%29.jpg/512px-Ceres_-_RC3_-_Haulani_Crater_%2822381131691%29_%28cropped%29.jpg",       
+    "Attribution": "Justin Cowart, Public domain, via Wikimedia Commons"
+  },
+  "Pallas": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Potw1749a_Pallas_crop.png",
+    "Attribution": "Credit: ESO/Vernazza et al., CC BY 4.0 <https://creativecommons.org/licenses/by/4.0>, via Wikimedia Commons"
+  },
+  "Vesta": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Vesta_in_natural_color.jpg/512px-Vesta_in_natural_color.jpg",
+    "Attribution": "NASA / JPL / MPS / DLR / IDA / Björn Jónsson, Public domain, via Wikimedia Commons"
+  },
+  "Haumea": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Haumea%2C_Celestia.jpg/512px-Haumea%2C_Celestia.jpg",
+    "Attribution": "Jin Zan, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons"
+  },
+  "Eris": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Eris-transparent.png/512px-Eris-transparent.png",
+    "Attribution": "ESO/L. Calçada and Nick Risinger (skysurvey.org), CC BY 4.0 <https://creativecommons.org/licenses/by/4.0>, via Wikimedia Commons"
+  },
+  "Quaoar": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Quaoar-red-ssc2004-05c.jpg",
+    "Attribution": "kheider using original NASA image SSC2004-05c, Public domain, via Wikimedia Commons"
+  },
+  "Oumuamua": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Eso1737a-shorter.jpg/512px-Eso1737a-shorter.jpg",
+    "Attribution": "Original ESO/M. Kornmesser  (+ background position from original change by Nagualdesign), CC BY 4.0 <https://creativecommons.org/licenses/by/4.0>, via Wikimedia Commons"
+  },
+  "Interstellar Comet 2I/Borisov": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Comet_2I_Borisov_%2848918154342%29.jpg/512px-Comet_2I_Borisov_%2848918154342%29.jpg",
+    "Attribution": "Hubble ESA, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons"
+  },
+  "Wormhole": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Lorentzian_Wormhole.svg/512px-Lorentzian_Wormhole.svg.png",
+    "Attribution": "Original:  AllenMcC. Vector:  KES47, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons"
+  },
+  "Pulsar": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Chandra-crab.jpg/512px-Chandra-crab.jpg",
+    "Attribution": "Optical: NASA/HST/ASU/J. Hester et al. X-Ray: NASA/CXC/ASU/J. Hester et al., Public domain, via Wikimedia Commons"
+  },
+  "Ring Nebula": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Hubble_image_of_the_Ring_Nebula_%28Messier_57%29.jpg/512px-Hubble_image_of_the_Ring_Nebula_%28Messier_57%29.jpg",
+    "Attribution": "NASA, ESA, and C. Robert O’Dell (Vanderbilt University), Public domain, via Wikimedia Commons"
+  },
+  "Rosette Nebula": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Rosette_Nebula_by_Deddy_Dayag.jpg/512px-Rosette_Nebula_by_Deddy_Dayag.jpg",
+    "Attribution": "David (Deddy) Dayag, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons"
+  },
+  "Ant Nebula": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Ant_Nebula.jpg/512px-Ant_Nebula.jpg",
+    "Attribution": "NASA, ESA & the Hubble Heritage Team (STScI/AURA).Acknowledgment: R. Sahai (Jet Propulsion Lab), B. Balick (University of Washington, Public domain, via Wikimedia Commons"
+  },
+  "Lagoon Nebula": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/VST_images_the_Lagoon_Nebula.jpg/512px-VST_images_the_Lagoon_Nebula.jpg",
+    "Attribution": "ESO/VPHAS+ team, CC BY 4.0 <https://creativecommons.org/licenses/by/4.0>, via Wikimedia Commons"
+  },
+  "Gamma Ray Burst": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/GammaRayBurst-20170727.jpg/512px-GammaRayBurst-20170727.jpg",
+    "Attribution": "NASA/GSFC, Public domain, via Wikimedia Commons"
+  },
+  "Io": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Io_highest_resolution_true_color.jpg/512px-Io_highest_resolution_true_color.jpg",
+    "Attribution": "NASA / JPL / University of Arizona, Public domain, via Wikimedia Commons"
+  },
+  "Europa": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Europa-moon.jpg/512px-Europa-moon.jpg",
+    "Attribution": "NASA/JPL/DLR, Public domain, via Wikimedia Commons"
+  },
+  "Ganymede": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Ganymede_-_Perijove_34_Composite.jpg/512px-Ganymede_-_Perijove_34_Composite.jpg",
+    "Attribution": "NASA/JPL-Caltech/SwRI/MSSS/Kevin M. Gill, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons"
+  },
+  "Callisto": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Callisto.jpg/512px-Callisto.jpg",
+    "Attribution": "NASA/JPL/DLR(German Aerospace Center), Public domain, via Wikimedia Commons"
+  },
+  "Titan": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/0/09/Two_Halves_of_Titan.png",
+    "Attribution": "NASA/JPL/Space Science Institute, Public domain, via Wikimedia Commons"
+  },
+  "Enceladus": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Enceladusstripes_cassini.jpg/512px-Enceladusstripes_cassini.jpg",
+    "Attribution": "NASA/JPL/Space Science Institute, Public domain, via Wikimedia Commons"
+  },
+  "Rhea": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/PIA07763_Rhea_full_globe5.jpg/512px-PIA07763_Rhea_full_globe5.jpg",
+    "Attribution": "NASA/JPL/Space Science Institute, Public domain, via Wikimedia Commons"
+  },
+  "Mimas": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/d/da/Mimas_moon.jpg",
+    "Attribution": "NASA, Public domain, via Wikimedia Commons"
+  },
+  "Triton": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Triton_moon_mosaic_Voyager_2_%28large%29_-_non-edit_version.jpg/512px-Triton_moon_mosaic_Voyager_2_%28large%29_-_non-edit_version.jpg",
+    "Attribution": "NASA / Jet Propulsion Lab / U.S. Geological Survey, Public domain, via Wikimedia Commons"
+  },
+  "Deimos": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Deimos-MRO.jpg",
+    "Attribution": "NASA/JPL-caltech/University of Arizona, Public domain, via Wikimedia Commons"
+  },
+  "Miranda": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/e/e1/PIA18185_Miranda%27s_Icy_Face.jpg",
+    "Attribution": "NASA/JPL-Caltech, Public domain, via Wikimedia Commons"
+  },
+  "Oberon": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Oberon_in_true_color_by_Kevin_M._Gill.jpg",
+    "Attribution": "Kevin M. Gill, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons"
+  },
+  "Charon": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Charon-transparent.png/512px-Charon-transparent.png",
+    "Attribution": "NASA/Johns Hopkins University Applied Physics Laboratory/Southwest Research Institute, Public domain, via Wikimedia Commons"
+  },
+  "Dysnomia": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Dysnomia-moon-transparent.png/512px-Dysnomia-moon-transparent.png",
+    "Attribution": "ESO/L. Calçada/M. Kornmesser, CC BY 4.0 <https://creativecommons.org/licenses/by/4.0>, via Wikimedia Commons"
   }
 }

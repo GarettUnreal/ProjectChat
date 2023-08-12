@@ -118,5 +118,149 @@
   "Carlos Santana": {
     "URL": "https://upload.wikimedia.org/wikipedia/commons/9/93/Carlos_Santana_2.jpg",
     "Attribution": "Carlos Santana.jpg: Jaudderivative work: Yarl, CC BY-SA 3.0 <http://creativecommons.org/licenses/by-sa/3.0/>, via Wikimedia Commons"
+  },
+  "John Lennon": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/JOHN_LENNON_cm100x100.jpg/512px-JOHN_LENNON_cm100x100.jpg",
+    "Attribution": "Nadir Nardiello, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons"
+  },
+  "Paul McCartney": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Paul_McCartney_2021_%28cropped%29.jpg/512px-Paul_McCartney_2021_%28cropped%29.jpg",
+    "Attribution": "Raphael Pour-Hashemi, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons"
+  },
+  "George Harrison": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/George_Harrison_1974.jpg/512px-George_Harrison_1974.jpg",
+    "Attribution": "David Hume Kennerly, Public domain, via Wikimedia Commons"
+  },
+  "Ringo Starr": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Ringo_Starr.png/512px-Ringo_Starr.png",
+    "Attribution": "dearMoon, CC BY 3.0 <https://creativecommons.org/licenses/by/3.0>, via Wikimedia Commons"
+  },
+  "Bob Marley": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Bob_Marley_sckech_Por_Daniel_Alvarado_Silvera.jpg/512px-Bob_Marley_sckech_Por_Daniel_Alvarado_Silvera.jpg",
+    "Attribution": "Daniel Alvarado Silvera, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons"
+  },
+  "Rihanna": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Rihanna_-_2023_Met_Gala.png/512px-Rihanna_-_2023_Met_Gala.png",
+    "Attribution": "Condé Nast (through Vogue Taiwan), CC BY 3.0 <https://creativecommons.org/licenses/by/3.0>, via Wikimedia Commons"
+  },
+  "Adele": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/5/52/Adele_for_Vogue_in_2021.png",
+    "Attribution": "Condé Nast (through Vogue Taiwan), CC BY 3.0 <https://creativecommons.org/licenses/by/3.0>, via Wikimedia Commons"
+  },
+  "Ed Sheeran": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Ed_Sheeran-6995.jpg/512px-Ed_Sheeran-6995.jpg",
+    "Attribution": "Harald Krichel, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons"
+  },
+  "Lady Gaga": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Lady_Gaga_-_2019_SAG_Awards.jpg/512px-Lady_Gaga_-_2019_SAG_Awards.jpg",
+    "Attribution": "joachim, CC BY 3.0 <https://creativecommons.org/licenses/by/3.0>, via Wikimedia Commons"
+  },
+  "Justin Bieber": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Justin_Bieber_mugshot%2C_front.jpg/512px-Justin_Bieber_mugshot%2C_front.jpg",
+    "Attribution": "Miami Beach Police Department, Public domain, via Wikimedia Commons"
+  },
+  "Bruno Mars": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/3/39/Bruno_Mars_portrait.jpg",
+    "Attribution": "Original: Chrizta T.derivative work: TheCuriousGnome, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons"
+  },
+  "Katy Perry": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Katy_Perry_November_2014.jpg/512px-Katy_Perry_November_2014.jpg",
+    "Attribution": "Eva Rinaldi, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons"
+  },
+  "Mariah Carey": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Mariah_Carey_WBLS_2018_Interview_6.jpg",
+    "Attribution": "WBLS, CC BY 3.0 <https://creativecommons.org/licenses/by/3.0>, via Wikimedia Commons"
+  },
+  "Elton John": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Elton_John_November_2015.jpg/512px-Elton_John_November_2015.jpg",
+    "Attribution": "U.S. Embassy photographer, Public domain, via Wikimedia Commons"
+  },
+  "Billy Joel": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Billy_Joel_Shankbone_NYC_2009.jpg/512px-Billy_Joel_Shankbone_NYC_2009.jpg",
+    "Attribution": "David Shankbone, CC BY 3.0 <https://creativecommons.org/licenses/by/3.0>, via Wikimedia Commons"
+  },
+  "Alicia Keys": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/AliciaKeys2013.jpg/512px-AliciaKeys2013.jpg",
+    "Attribution": "Eva Rinaldi, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons"
+  },
+  "Phil Collins": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Phil_Collins_1_%28cropped%29.jpg/256px-Phil_Collins_1_%28cropped%29.jpg",
+    "Attribution": "Dicknroll, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons"
+  },
+  "James Brown": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/James_Brown_1996.jpg/512px-James_Brown_1996.jpg",
+    "Attribution": "John Mathew Smith & www.celebrity-photos.com from Laurel  Maryland, USA, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons"
+  },
+  "Ray Charles": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Ray_Charles_1996.jpg/512px-Ray_Charles_1996.jpg",
+    "Attribution": "John Mathew Smith & www.celebrity-photos.com from Laurel  Maryland, USA, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons"
+  },
+  "B.B. King": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Publicity_photo_of_B.B._King._-_j9602118s_files_7f3e5875-55ee-4389-8eb0-53e6b59f1df3_%28cropped%29.jpg/512px-Publicity_photo_of_B.B._King._-_j9602118s_files_7f3e5875-55ee-4389-8eb0-53e6b59f1df3_%28cropped%29.jpg",
+    "Attribution": "See page for author, PDM-owner, via Wikimedia Commons"
+  },
+  "Cher": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Cher_by_Ian_Smith.jpg/512px-Cher_by_Ian_Smith.jpg",
+    "Attribution": "Ian Smith from London, England, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons"
+  },
+  "Celine Dion": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/C%C3%A9line_Dion_2012.jpg/512px-C%C3%A9line_Dion_2012.jpg",
+    "Attribution": "Georges Biard, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons"
+  },
+  "Diana Ross": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Diana_Ross_1976.jpg/512px-Diana_Ross_1976.jpg",
+    "Attribution": "Motown Records, Public domain, via Wikimedia Commons"
+  },
+  "Mick Jagger": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Mick_Jagger_smoking%2C_1965.jpg/512px-Mick_Jagger_smoking%2C_1965.jpg",
+    "Attribution": "V. K. Hietanen, CC BY 4.0 <https://creativecommons.org/licenses/by/4.0>, via Wikimedia Commons"
+  },
+  "Keith Richards": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/2/26/Keith_Richards_Berlinale_2008_%28cropped%29.jpg",
+    "Attribution": "Siebbi, CC BY 3.0 <https://creativecommons.org/licenses/by/3.0>, via Wikimedia Commons"
+  },
+  "Dolly Parton": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Dolly_Parton_%286330152177%29.jpg/512px-Dolly_Parton_%286330152177%29.jpg",
+    "Attribution": "Eva Rinaldi, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons"
+  },
+  "Lizzo": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Lizzo_-_Palace_Theatre_-_St._Paul_%2827266082587%29.jpg/512px-Lizzo_-_Palace_Theatre_-_St._Paul_%2827266082587%29.jpg",
+    "Attribution": "Andy Witchger, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons"
+  },
+  "Barbra Streisand": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Barbra_Streisand_-_1966.jpg/512px-Barbra_Streisand_-_1966.jpg",
+    "Attribution": "[1], Public domain, via Wikimedia Commons"
+  },
+  "Neil Young": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/2/26/Neil_Young_1976_closeup.jpg",
+    "Attribution": "Mark Estabrook, Attribution, via Wikimedia Commons"
+  },
+  "Christina Aguilera": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Christina_Aguilera_Sanremo_cropped.jpg",
+    "Attribution": "Raffaele Fiorillo, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons"
+  },
+  "Britney Spears": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Britney_Spears%2C_Roundhouse_London_2016.jpg/512px-Britney_Spears%2C_Roundhouse_London_2016.jpg",
+    "Attribution": "Drew de F Fawkes, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons"
+  },
+  "Sade": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Sade_Adu_1_%28cropped%29.jpg/512px-Sade_Adu_1_%28cropped%29.jpg",
+    "Attribution": "Thilo Parg, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons"
+  },
+  "U2": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/U2_montage.jpg/512px-U2_montage.jpg",
+    "Attribution": "David ShankboneFile:The Edge's face.jpg: Flickr user Christopher HarteFile:Adam clayton 1.JPG (derived from File:Adam Clayton rdblk.jpg): Flickr user Eliane Kobayakawa (derivative work by Suede67)File:LarryMullenJr.jpg: atu2.comderivative work (crop and placement): Michael Barera, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons"
+  },
+  "Ariana Grande": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Ariana_Grande_interview_2016.jpg/512px-Ariana_Grande_interview_2016.jpg",
+    "Attribution": "Pure DOPE Magazine, CC BY 3.0 <https://creativecommons.org/licenses/by/3.0>, via Wikimedia Commons"
+  },
+  "Kanye West": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Kanye_West_at_the_2009_Tribeca_Film_Festival_%28cropped%29.jpg/512px-Kanye_West_at_the_2009_Tribeca_Film_Festival_%28cropped%29.jpg",
+    "Attribution": "David Shankbone, Public domain, via Wikimedia Commons"
+  },
+  "Eminem": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Eminem_-_Concert_for_Valor_in_Washington%2C_D.C._Nov._11%2C_2014_%282%29_%28cropped%29.jpg/512px-Eminem_-_Concert_for_Valor_in_Washington%2C_D.C._Nov._11%2C_2014_%282%29_%28cropped%29.jpg",
+    "Attribution": "DoD News Features, Public domain, via Wikimedia Commons"
   }
 }

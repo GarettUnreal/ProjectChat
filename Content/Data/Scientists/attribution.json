@@ -110,5 +110,145 @@
   "Michio Kaku": {
     "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Michio_Kaku_Presentation-cropped.jpg/512px-Michio_Kaku_Presentation-cropped.jpg",
     "Attribution": "Cristiano Sant'Anna, CC0, via Wikimedia Commons"
+  },
+  "James Clerk Maxwell": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/James-Clerk-Maxwell-1831-1879.jpg/512px-James-Clerk-Maxwell-1831-1879.jpg",
+    "Attribution": "See page for author, Public domain, via Wikimedia Commons"
+  },
+  "Johannes Kepler": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Portrait_Confused_With_Johannes_Kepler_1610.jpg/512px-Portrait_Confused_With_Johannes_Kepler_1610.jpg",
+    "Attribution": "Unidentified painter, Public domain, via Wikimedia Commons"
+  },
+  "Michael Faraday": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Michael_Faraday.png/512px-Michael_Faraday.png",
+    "Attribution": "https://wellcomeimages.org/indexplus/obf_images/c9/d3/124d830a7a4bc9cdb0500be22adf.jpg   Gallery: https://wellcomeimages.org/indexplus/image/V0026346.html    Wellcome Collection gallery (2018-03-31): https://wellcomecollection.org/works/nzt3mvvr CC-BY-4.0, CC BY 4.0 <https://creativecommons.org/licenses/by/4.0>, via Wikimedia Commons"
+  },
+  "Henri Becquerel": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Henri_Becquerel_1903.jpg",
+    "Attribution": "Nobel foundation, Public domain, via Wikimedia Commons"
+  },
+  "Ernest Rutherford": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/d/df/Ernest_Rutherford_%28Nobel%29.jpg",
+    "Attribution": "See page for author, Public domain, via Wikimedia Commons"
+  },
+  "Enrico Fermi": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Enrico_Fermi_1943-49_%28cropped%29.jpg/512px-Enrico_Fermi_1943-49_%28cropped%29.jpg",
+    "Attribution": "Department of Energy. Office of Public Affairs, Public domain, via Wikimedia Commons"
+  },
+  "Werner Heisenberg": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Heisenberg%2CWerner_1926.jpeg/512px-Heisenberg%2CWerner_1926.jpeg",
+    "Attribution": "Friedrich Hund, CC BY 3.0 <https://creativecommons.org/licenses/by/3.0>, via Wikimedia Commons"
+  },
+  "Murray Gell-Mann": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Murray_Gell-Mann_-_World_Economic_Forum_Annual_Meeting_2012_%28cropped%29.jpg/512px-Murray_Gell-Mann_-_World_Economic_Forum_Annual_Meeting_2012_%28cropped%29.jpg",  
+    "Attribution": "World Economic Forum, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons"
+  },
+  "Euclid": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/3/30/Euklid-von-Alexandria_1.jpg",
+    "Attribution": "See page for author, Public domain, via Wikimedia Commons"
+  },
+  "Carl Friedrich Gauss": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Carl_Friedrich_Gauss.jpg/512px-Carl_Friedrich_Gauss.jpg",
+    "Attribution": "Gottlieb Biermann, Public domain, via Wikimedia Commons"
+  },
+  "Gregor Mendel": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Gregor_Mendel.png",
+    "Attribution": "NIH, Public domain, via Wikimedia Commons"
+  },
+  "Dmitri Mendeleev": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/2/24/Dmitri_mendeleev_in_the_1880s.jpg",
+    "Attribution": "https://pixel17.com, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons"
+  },
+  "Barbara McClintock": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Barbara_McClintock_%281902-1992%29_shown_in_her_laboratory_in_1947_%28cropped%29.jpg/512px-Barbara_McClintock_%281902-1992%29_shown_in_her_laboratory_in_1947_%28cropped%29.jpg",
+    "Attribution": "Smithsonian Institution/Science Service; Restored by Adam Cuerden, Public domain, via Wikimedia Commons"
+  },
+  "Emmy Noether": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Noether_%28petite_image%29.png/256px-Noether_%28petite_image%29.png",
+    "Attribution": "Emmy Noether (1882-1935), Public domain, via Wikimedia Commons"
+  },
+  "Chandrasekhara Venkata Raman": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Sir_CV_Raman.JPG/512px-Sir_CV_Raman.JPG",
+    "Attribution": "Nobel Foundation, Public domain, via Wikimedia Commons"
+  },
+  "Subrahmanyan Chandrasekhar": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/4/40/Subrahmanyan_Chandrasekhar_%28cropped%29.gif",
+    "Attribution": "Startchild Project NASA, Public domain, via Wikimedia Commons"
+  },
+  "Gertrude B. Elion": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Gertrude_Elion_%28cropped%29.jpg/512px-Gertrude_Elion_%28cropped%29.jpg",
+    "Attribution": "GlaxoSmithKline plc, CC BY 4.0 <https://creativecommons.org/licenses/by/4.0>, via Wikimedia Commons"
+  },
+  "Dorothy Crowfoot Hodgkin": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Dorothy_Hodgkin_im_Talar.jpg/512px-Dorothy_Hodgkin_im_Talar.jpg",
+    "Attribution": "University of Bristol, CC BY-SA 2.5 <https://creativecommons.org/licenses/by-sa/2.5>, via Wikimedia Commons"
+  },
+  "Andrei Sakharov": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Andrei_Sakharov_1989_%28cropped%29.jpg/512px-Andrei_Sakharov_1989_%28cropped%29.jpg",
+    "Attribution": "Anefo / Croes, R.C., CC0, via Wikimedia Commons"
+  },
+  "Ilya Prigogine": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Ilya_Prigogine_1977_cropped_%28Remini_enhanced%29.jpg/512px-Ilya_Prigogine_1977_cropped_%28Remini_enhanced%29.jpg",
+    "Attribution": "Initial photograph : Unknown (Keystone - US), Crop and AI image processing : Madelgarius, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons"
+  },
+  "Frederick Sanger": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Frederick_Sanger.jpg",
+    "Attribution": "See page for author, Public domain, via Wikimedia Commons"
+  },
+  "Paul Berg": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Paul_Berg_in_1980.jpg/512px-Paul_Berg_in_1980.jpg",
+    "Attribution": "http://profiles.nlm.nih.gov/CD/B/B/L/L/, Public domain, via Wikimedia Commons"
+  },
+  "Willard Libby": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Willard_Libby_in_Lab_%28cropped%29.jpg",
+    "Attribution": "https://denstoredanske.lex.dk/Willard_Frank_Libby, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons"
+  },
+  "Hans Bethe": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Bethe.jpg",
+    "Attribution": "Nobel foundation, Public domain, via Wikimedia Commons"
+  },
+  "Lisa Randall": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Lisa_randall_by_christopher_michel_02.jpg/512px-Lisa_randall_by_christopher_michel_02.jpg",
+    "Attribution": "Cmichel67, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons"
+  },
+  "Kip Thorne": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Kip_Thorne_at_Caltech.jpg/512px-Kip_Thorne_at_Caltech.jpg",
+    "Attribution": "Keenan Pepper, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons"
+  },
+  "Roger Penrose": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Roger_Penrose_9560.JPG/512px-Roger_Penrose_9560.JPG",
+    "Attribution": "Biswarup Ganguly, CC BY 3.0 <https://creativecommons.org/licenses/by/3.0>, via Wikimedia Commons"
+  },
+  "Claude Shannon": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/9/99/ClaudeShannon_MFO3807.jpg",
+    "Attribution": "Jacobs, Konrad, CC BY-SA 2.0 DE <https://creativecommons.org/licenses/by-sa/2.0/de/deed.en>, via Wikimedia Commons"
+  },
+  "Carl Woese": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Carl_Woese.jpg/512px-Carl_Woese.jpg",
+    "Attribution": "Don Hamerman, CC BY 3.0 <https://creativecommons.org/licenses/by/3.0>, via Wikimedia Commons"
+  },
+  "Sergei Winogradsky": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Sergei_Winogradsky.jpg",
+    "Attribution": "See page for author, Public domain, via Wikimedia Commons"
+  },
+  "Gerty Cori": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Gerty_Theresa_Cori.jpg",
+    "Attribution": "National Library of Medicine, Images from the History of Medicine, B05353, Public domain, via Wikimedia Commons"
+  },
+  "Wolfgang Pauli": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/4/43/Pauli.jpg",
+    "Attribution": "Nobel foundation, Public domain, via Wikimedia Commons"
+  },
+  "Har Gobind Khorana": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Har_Gobind_Khorana.jpg",
+    "Attribution": "See page for author, Public domain, via Wikimedia Commons"
+  },
+  "Ahmed Zewail": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Ahmed_Zewail_%282010%29.jpg/512px-Ahmed_Zewail_%282010%29.jpg",
+    "Attribution": "Simon Fraser University -  University Communications, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons"
+  },
+  "Svante Arrhenius": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/9/95/Svante_Arrhenius.jpg",
+    "Attribution": "Nobel Foundation, Public domain, via Wikimedia Commons"
   }
 }

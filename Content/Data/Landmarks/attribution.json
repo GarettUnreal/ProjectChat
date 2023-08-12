@@ -78,5 +78,133 @@
   "The Great Sphinx of Giza": {
     "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Great_Sphinx_of_Giza_%28%D8%A3%D8%A8%D9%88_%D8%A7%D9%84%D9%87%D9%88%D9%84%29.jpg/512px-Great_Sphinx_of_Giza_%28%D8%A3%D8%A8%D9%88_%D8%A7%D9%84%D9%87%D9%88%D9%84%29.jpg",
     "Attribution": "Petar Milošević, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons"
+  },
+  "Stonehenge": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Stonehenge2007_07_30.jpg/512px-Stonehenge2007_07_30.jpg",
+    "Attribution": "garethwiscombe, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons"
+  },
+  "Niagara Falls": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Niagara_Falls_from_the_Canadian_side.jpg/512px-Niagara_Falls_from_the_Canadian_side.jpg",
+    "Attribution": "EddaBeck, CC0, via Wikimedia Commons"
+  },
+  "Brandenburg Gate": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Brandenburger_Tor_abends.jpg/512px-Brandenburger_Tor_abends.jpg",
+    "Attribution": "Thomas Wolf, www.foto-tw.de, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons"
+  },
+  "Mount Everest": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Close_Up_View_of_Mount_Everest_from_Kala_Patthar_%285644_m%29_in_2023-IMG-3485.jpg/512px-Close_Up_View_of_Mount_Everest_from_Kala_Patthar_%285644_m%29_in_2023-IMG-3485.jpg",
+    "Attribution": "Bijay Chaurasia, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons"
+  },
+  "Louvre Museum": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/The_Louvre_Museum_facing_the_Tuileries_Garden.jpg/512px-The_Louvre_Museum_facing_the_Tuileries_Garden.jpg",
+    "Attribution": "DiscoA340, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons"
+  },
+  "Grand Canyon": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Grand_Canyon_Hopi_Point_with_rainbow_2013.jpg/512px-Grand_Canyon_Hopi_Point_with_rainbow_2013.jpg",
+    "Attribution": "Tuxyso / Wikimedia Commons"
+  },
+  "Leaning Tower of Pisa": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Leaning_Tower_of_Pisa_05.08.2012.jpg/512px-Leaning_Tower_of_Pisa_05.08.2012.jpg",
+    "Attribution": "Bo&Ko, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons"
+  },
+  "Saint Basil's Cathedral": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/00_0568_Saint_Basil%27s_Cathedral_-_Moscow.jpg/512px-00_0568_Saint_Basil%27s_Cathedral_-_Moscow.jpg",
+    "Attribution": "W. Bulach, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons"
+  },
+  "Victoria Falls": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Cataratas_Victoria%2C_Zambia-Zimbabue%2C_2018-07-27%2C_DD_21.jpg/512px-Cataratas_Victoria%2C_Zambia-Zimbabue%2C_2018-07-27%2C_DD_21.jpg",
+    "Attribution": "Diego Delso, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons"
+  },
+  "Hagia Sophia": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Hagia_Sophia_Mars_2013.jpg/512px-Hagia_Sophia_Mars_2013.jpg",
+    "Attribution": "Arild Vågen, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons"
+  },
+  "Moai Statues of Easter Island": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Moai_Rano_raraku.jpg/512px-Moai_Rano_raraku.jpg",
+    "Attribution": "Aurbina, Public domain, via Wikimedia Commons"
+  },
+  "Sistine Chapel": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Chapelle_sixtine2.jpg/512px-Chapelle_sixtine2.jpg",
+    "Attribution": "Antoine Taveneaux, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons"
+  },
+  "Tokyo Tower": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Tokyo_Tower_20060211.JPG/512px-Tokyo_Tower_20060211.JPG",
+    "Attribution": "Eckhard Pecher, CC BY 2.5 <https://creativecommons.org/licenses/by/2.5>, via Wikimedia Commons"
+  },
+  "Burj Khalifa": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Burj_Khalifa%2C_Dubai.jpg/512px-Burj_Khalifa%2C_Dubai.jpg",
+    "Attribution": "Clément Bardot, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons"
+  },
+  "Amazon Rainforest": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Amazon_rainforest.jpg",
+    "Attribution": "Pfly, Public domain, via Wikimedia Commons"
+  },
+  "Panama Canal": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Panama_Canal_Gatun_Locks.jpg/512px-Panama_Canal_Gatun_Locks.jpg",
+    "Attribution": "Stan Shebs, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons"
+  },
+  "Red Square": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Red_Square%2C_winter%2C_Moscow%2C_Russia.jpg/512px-Red_Square%2C_winter%2C_Moscow%2C_Russia.jpg",
+    "Attribution": "© Vyacheslav Argenberg / http://www.vascoplanet.com/, CC BY 4.0 <https://creativecommons.org/licenses/by/4.0>, via Wikimedia Commons"
+  },
+  "Dead Sea": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Dead_Sea_by_David_Shankbone.jpg/512px-Dead_Sea_by_David_Shankbone.jpg",
+    "Attribution": "David Shankbone, CC BY-SA 3.0 <http://creativecommons.org/licenses/by-sa/3.0/>, via Wikimedia Commons"
+  },
+  "Brooklyn Bridge": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Brooklyn_Bridge_Manhattan.jpg/512px-Brooklyn_Bridge_Manhattan.jpg",
+    "Attribution": "Suiseiseki, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons"
+  },
+  "Uluru (Ayers Rock)": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Ulu%E1%B9%9Fu_%28Ayers_Rock%29%2C_Sunset.jpg/512px-Ulu%E1%B9%9Fu_%28Ayers_Rock%29%2C_Sunset.jpg",
+    "Attribution": "Weyf, CC0, via Wikimedia Commons"
+  },
+  "Cliffs of Moher": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/9/91/Cliffs_of_Moher_-_geograph.org.uk_-_3566902.jpg",
+    "Attribution": "Cliffs of Moher by Oliver Dixon, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons"
+  },
+  "Table Mountain": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Kaapstad_Tafelberg_02.jpg/512px-Kaapstad_Tafelberg_02.jpg",
+    "Attribution": "Ad MeskensYou are free to use this picture for any purpose as long as you credit its author, Ad Meskens.Example:  © Ad Meskens / Wikimedia Commons  If you use this work outside of the Wikimedia projects, a message or a copy is very much appreciated.\tThis image is not in the public domain. A statement such as \"From Wikimedia Commons\" or similar is not by itself sufficient. If you do not provide clear attribution to the author you didn't comply with the terms of the file's license and may not use this file. If you are unable or unwilling to provide attribution you should contact Ad Meskens to negotiate a different license. This file has been released under a license which is incompatible with Facebook's licensing terms. It is not permitted to upload this file to Facebook., CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons"
+  },
+  "Rock of Gibraltar": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Gibraltar_Rock_04.jpg/512px-Gibraltar_Rock_04.jpg",
+    "Attribution": "Olaf Tausch, CC BY 3.0 <https://creativecommons.org/licenses/by/3.0>, via Wikimedia Commons"
+  },
+  "Mount Fuji": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Mount_Fuji_and_Shinkansen_N700.jpg/512px-Mount_Fuji_and_Shinkansen_N700.jpg",
+    "Attribution": "Alpsdake, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons"
+  },
+  "The Blue Lagoon": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Blue_Lagoon%2C_Grindav%C3%ADk_ISL%282%29.jpg/512px-Blue_Lagoon%2C_Grindav%C3%ADk_ISL%282%29.jpg",
+    "Attribution": "Stefano Vigorelli, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons"
+  },
+  "Capitol Hill": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/The_Capitol_in_the_Winter.jpg/512px-The_Capitol_in_the_Winter.jpg",
+    "Attribution": "Rizka, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons"
+  },
+  "Giant's Causeway": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Giant%27s_Causeway_-_geograph.org.uk_-_4060724.jpg/512px-Giant%27s_Causeway_-_geograph.org.uk_-_4060724.jpg",
+    "Attribution": "Giant's Causeway by John H Darch, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons"
+  },
+  "Dubrovnik Old Town": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Dubrovnik_Old_Town_%285778380042%29.jpg/512px-Dubrovnik_Old_Town_%285778380042%29.jpg",
+    "Attribution": "Sean MacEntee from Monaghan, Ireland, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons"
+  },
+  "Terracotta Army": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Terracotta_Army_%2848815640098%29.jpg/512px-Terracotta_Army_%2848815640098%29.jpg",
+    "Attribution": "David Stanley from Nanaimo, Canada, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons"
+  },
+  "Angel Falls": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Kerepakupai_Ven%C3%A1_a_toda_m%C3%A1quina.JPG/512px-Kerepakupai_Ven%C3%A1_a_toda_m%C3%A1quina.JPG",
+    "Attribution": "ZaireTuris, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons"
+  },
+  "The Matterhorn": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Matterhorn_from_Domh%C3%BCtte_-_2.jpg/512px-Matterhorn_from_Domh%C3%BCtte_-_2.jpg",
+    "Attribution": "Photo: chil, on Camptocamp.orgDerivative work:Zacharie Grossen, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons"
+  },
+  "Iguazu Falls": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Cataratas_de_Iguaz%C3%BA.jpg/512px-Cataratas_de_Iguaz%C3%BA.jpg",
+    "Attribution": "Pablo BD, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons"
   }
 }

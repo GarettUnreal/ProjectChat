@@ -86,5 +86,145 @@
   "Skiing": {
     "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Ski_Famille_-_Family_Ski_Holidays.jpg/512px-Ski_Famille_-_Family_Ski_Holidays.jpg",
     "Attribution": "Robinseed, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons"
+  },
+  "Archery": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/2013_FITA_Archery_World_Cup_-_Women%27s_individual_compound_-_Final_-_20.jpg/512px-2013_FITA_Archery_World_Cup_-_Women%27s_individual_compound_-_Final_-_20.jpg",    
+    "Attribution": "Pierre-Yves Beaudouin / Wikimedia Commons"
+  },
+  "Bobsleigh": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/2020-01-20_2nd_run_Men%27s_Monobob_%282020_Winter_Youth_Olympics%29_by_Sandro_Halank%E2%80%93083.jpg/512px-2020-01-20_2nd_run_Men%27s_Monobob_%282020_Winter_Youth_Olympics%29_by_Sandro_Halank%E2%80%93083.jpg",
+    "Attribution": "Sandro Halank, Wikimedia Commons, CC BY-SA 4.0, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons"
+  },
+  "Bowling": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Bowling_with_red_ball.jpg/512px-Bowling_with_red_ball.jpg",
+    "Attribution": "Unknown (publicdomainarchive.com), CC0, via Wikimedia Commons"
+  },
+  "Canoeing": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/2022_ICF_Wildwater_canoeing_World_Championships_-_Daniel_Such%C3%A1nek_02.jpg/512px-2022_ICF_Wildwater_canoeing_World_Championships_-_Daniel_Such%C3%A1nek_02.jpg",  
+    "Attribution": "Antoine Lamielle, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons"
+  },
+  "Darts": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Plastikozko_dardoa.jpg/512px-Plastikozko_dardoa.jpg",
+    "Attribution": "Ahmad elsafty, Afif Kusuma, Adriaan Terblanche, PEIWEN HE, Oliver Buchmann, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons"
+  },
+  "Diving": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Diving.jpg/256px-Diving.jpg",
+    "Attribution": "U.S. Navy photo by Photographer’s Mate 2nd Class Isaiah Sellers III. (RELEASED), Public domain, via Wikimedia Commons"
+  },
+  "Equestrian": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/2018-10-09_Equestrian_Jumping_International_Team_at_the_2018_Summer_Youth_Olympics_%E2%80%93_Round_2_by_Sandro_Halank%E2%80%93754.jpg/512px-2018-10-09_Equestrian_Jumping_International_Team_at_the_2018_Summer_Youth_Olympics_%E2%80%93_Round_2_by_Sandro_Halank%E2%80%93754.jpg",
+    "Attribution": "Sandro Halank, Wikimedia Commons, CC BY-SA 4.0, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons"
+  },
+  "Fencing": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Kovalev_v_Szilagyi_2013_Fencing_WCH_SMS-IN_t194135.jpg/512px-Kovalev_v_Szilagyi_2013_Fencing_WCH_SMS-IN_t194135.jpg",
+    "Attribution": "© Marie-Lan Nguyen / Wikimedia Commons"
+  },
+  "Field Hockey": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Great_Britain_v_Argentina_Match_2_%282491861962%29.jpg/512px-Great_Britain_v_Argentina_Match_2_%282491861962%29.jpg",
+    "Attribution": "fourthandfifteen, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons"
+  },
+  "Figure Skating": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/2020-01-11_Women%27s_Single_Figure_Skating_Short_Program_%282020_Winter_Youth_Olympics%29_by_Sandro_Halank%E2%80%93350.jpg/512px-2020-01-11_Women%27s_Single_Figure_Skating_Short_Program_%282020_Winter_Youth_Olympics%29_by_Sandro_Halank%E2%80%93350.jpg",
+    "Attribution": "Sandro Halank, Wikimedia Commons, CC BY-SA 4.0, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons"
+  },
+  "Handball": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Kiril_Lazarov_09.jpg/512px-Kiril_Lazarov_09.jpg",
+    "Attribution": "Kuebi = Armin Kübelbeck. In case of questions regarding usage of my work, please see here — after you have read the license below., CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons"
+  },
+  "Judo": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/KOCIS_Korea_Judo_Kim_Jaebum_London_36_%287696361164%29.jpg/512px-KOCIS_Korea_Judo_Kim_Jaebum_London_36_%287696361164%29.jpg",
+    "Attribution": "Korea.net / Korean Culture and Information Service (Photographer name), CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons"
+  },
+  "Karate": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/2018-10-10_Nihozeko_vs_Zrhari_%28Semifinal_Judo_Mixed_International_Team%29_at_2018_Summer_Youth_Olympics_by_Sandro_Halank%E2%80%93016.jpg/512px-2018-10-10_Nihozeko_vs_Zrhari_%28Semifinal_Judo_Mixed_International_Team%29_at_2018_Summer_Youth_Olympics_by_Sandro_Halank%E2%80%93016.jpg",
+    "Attribution": "Sandro Halank, Wikimedia Commons, CC BY-SA 4.0, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons"
+  },
+  "Lacrosse": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Men%27s_Lacrosse_Player.jpg/512px-Men%27s_Lacrosse_Player.jpg",
+    "Attribution": "Act96, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons"
+  },
+  "Luge": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/2017-12-02_Luge_World_Cup_Men_Altenberg_by_Sandro_Halank%E2%80%93015.jpg/512px-2017-12-02_Luge_World_Cup_Men_Altenberg_by_Sandro_Halank%E2%80%93015.jpg",
+    "Attribution": "Sandro Halank, Wikimedia Commons, CC BY-SA 3.0, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons"
+  },
+  "Polo": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Varsity_Polo_2013.jpg/512px-Varsity_Polo_2013.jpg",
+    "Attribution": "User:Andreas Polo, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons"
+  },
+  "Rock Climbing": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Under_a_roof.jpg/512px-Under_a_roof.jpg",
+    "Attribution": "Chris, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons"
+  },
+  "Rowing": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Double_Sculls_USA.JPEG/512px-Double_Sculls_USA.JPEG",
+    "Attribution": "TSGT Rick Sforza, U.S. Air Force, Public domain, via Wikimedia Commons"
+  },
+  "Rugby Sevens": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Brasil_vs_Gr%C3%A3-Bretanha_-_rugby_sevens_feminino_6_ago_06.jpg/512px-Brasil_vs_Gr%C3%A3-Bretanha_-_rugby_sevens_feminino_6_ago_06.jpg",
+    "Attribution": "Fernando Frazão/Agência Brasil, CC BY 3.0 BR <https://creativecommons.org/licenses/by/3.0/br/deed.en>, via Wikimedia Commons"
+  },
+  "Sailing": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/J-24_yacht_racing%2C_Sydney_Harbour.jpg/512px-J-24_yacht_racing%2C_Sydney_Harbour.jpg",
+    "Attribution": "The original uploader was Rling at English Wikipedia.(Original text: Richard Ling), CC BY-SA 2.5 <https://creativecommons.org/licenses/by-sa/2.5>, via Wikimedia Commons"
+  },
+  "Shooting": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Nancy_Johnson_%28sport_shooter%29_4.jpg/512px-Nancy_Johnson_%28sport_shooter%29_4.jpg",
+    "Attribution": "DoD photo by Tech. Sgt. Robert A. Whitehead, U.S. Air Force. (Released), Public domain, via Wikimedia Commons"
+  },
+  "Snooker": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/German_Masters_Snooker_Final_%28DerHexer%29_2012-02-05_28.jpg/512px-German_Masters_Snooker_Final_%28DerHexer%29_2012-02-05_28.jpg",
+    "Attribution": "DerHexer, Wikimedia Commons, CC-by-sa 4.0, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons"
+  },
+  "Squash": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Semifinal_Squash_SM_2021.jpg/512px-Semifinal_Squash_SM_2021.jpg",
+    "Attribution": "User5757, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons"
+  },
+  "Sumo Wrestling": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Asashoryu_fight_Jan08.JPG/512px-Asashoryu_fight_Jan08.JPG",
+    "Attribution": "Eckhard Pecher User:Arcimboldo, CC BY 3.0 <https://creativecommons.org/licenses/by/3.0>, via Wikimedia Commons"
+  },
+  "Synchronized Swimming": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Synchronized_swimming_-_Russian_team.jpg/512px-Synchronized_swimming_-_Russian_team.jpg",
+    "Attribution": "Jesus de Blas, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons"
+  },
+  "Taekwondo": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Milad_Kharchegani_at_the_2016_Summer_Olympics.jpg",
+    "Attribution": "Tasnim News Agency, CC BY 4.0 <https://creativecommons.org/licenses/by/4.0>, via Wikimedia Commons"
+  },
+  "Trampoline": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/2018-10-08_Gymnastics_at_2018_Summer_Youth_Olympics_%E2%80%93_Boys%27_Trampoline_Gymnastics_%E2%80%93_Qualification_%28Martin_Rulsch%29_029.jpg/512px-2018-10-08_Gymnastics_at_2018_Summer_Youth_Olympics_%E2%80%93_Boys%27_Trampoline_Gymnastics_%E2%80%93_Qualification_%28Martin_Rulsch%29_029.jpg",
+    "Attribution": "Martin Rulsch, Wikimedia Commons, CC BY-SA 4.0, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons"
+  },
+  "Tug of War": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/2/26/Touwtrekken.jpg",
+    "Attribution": "Bart Derksen at Dutch Wikipedia, CC BY-SA 3.0 <http://creativecommons.org/licenses/by-sa/3.0/>, via Wikimedia Commons"
+  },
+  "Water Polo": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Water_polo-2.jpg/512px-Water_polo-2.jpg",
+    "Attribution": "Juan Fernández, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons"
+  },
+  "Weightlifting": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Lasha_Talakhadze_Rio_2016.jpg/512px-Lasha_Talakhadze_Rio_2016.jpg",
+    "Attribution": "Agência Brasil Fotografias, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons"
+  },
+  "Whitewater Kayaking": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Whitewater_rapids_kayaking_%288751581979%29.jpg/512px-Whitewater_rapids_kayaking_%288751581979%29.jpg",
+    "Attribution": "cjuneau, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons"
+  },
+  "Windsurfing": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Windsurfing_%288216703737%29.jpg/512px-Windsurfing_%288216703737%29.jpg",
+    "Attribution": "Maarten Visser from Capelle aan den IJssel, Nederland, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons"
+  },
+  "Paragliding": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Paragliding_1350361.jpg/512px-Paragliding_1350361.jpg",
+    "Attribution": "© Nevit Dilmen, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons"
+  },
+  "Roller Skating": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/DEGAN_Gabin_%28_sport_skates_%29.jpg/512px-DEGAN_Gabin_%28_sport_skates_%29.jpg",
+    "Attribution": "DEGAN Gabin, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons"
+  },
+  "Kite Surfing": {
+    "URL": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Kite_surfing_1_2008.jpg/512px-Kite_surfing_1_2008.jpg",
+    "Attribution": "Bengt Nyman, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons"
   }
 }

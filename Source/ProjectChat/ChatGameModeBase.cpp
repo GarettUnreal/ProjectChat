@@ -377,7 +377,7 @@ void AChatGameModeBase::ParseMessage(FString msg)
 				fs.Contains(":tmi.twitch.tv NOTICE * :Login authentication failed") ||
 				fs.Contains(":tmi.twitch.tv NOTICE * :Improperly formatted auth"))
 			{
-				OnConnectedToTwitchStatus.Broadcast(ChannelToJoin, true);
+				OnConnectedToTwitchStatus.Broadcast(ChannelToJoin, false);
 			}
 		}
 		else if (parts.Num() == 1)
